@@ -3336,3 +3336,40 @@ True
 : 1367483548:0;cp ~/*zsh* .
 : 1367483569:0;cp ~/.zsh* .
 : 1367483578:0;cp ~/.*zsh* .
+: 1367497839:0;cd
+: 1367497958:0;_ pacman -Syu
+: 1367498034:0;_ pacman -R gnome-games
+: 1367498049:0;_ pacman -R gnome-games gnome-games-extra-data
+: 1367498099:0;_ pacman -Syu
+: 1367498489:0;_ cp /etc/network.d/wlan0-NETCOMM000ngnz /etc/netctl
+: 1367498508:0;cd /etc/netctl
+: 1367498536:0;_ mkdir /etc/netctl
+: 1367498554:0;please rm /etc/netctl
+: 1367498558:0;_ mkdir /etc/netctl
+: 1367498564:0;_ cp /etc/network.d/wlan0-NETCOMM000ngnz /etc/netctl
+: 1367498586:0;cd /etc/netctl
+: 1367498587:0;ls
+: 1367498591:0;nano wlan0-NETCOMM000ngnz
+: 1367498716:0;gvim wlan0-NETCOMM000ngnz
+: 1367498876:0;sudo geany wlan0-NETCOMM000ngnz
+: 1367500250:0;vim autostart.sh
+: 1367500291:0;cd
+: 1367500320:0;vim dotfiles/autostart.sh
+: 1367500329:0;vim .xinitrc
+: 1367500791:0;vim dotfiles/autostart.sh
+: 1367501012:0;clear
+: 1367501112:0;_ pacman -S netctl
+: 1367501250:0;cd /usr/share/xsessions
+: 1367501250:0;ls
+: 1367501270:0;vim echinus.desktop
+: 1367501319:0;cd dotfiles
+: 1367501320:0;ls
+: 1367501331:0;mkdir autostarts
+: 1367501339:0;mv autostart.sh autostarts
+: 1367501342:0;cd autostarts
+: 1367501343:0;ls
+: 1367501364:0;mv autostart.sh echinus.sh
+: 1367501365:0;ls
+: 1367501372:0;git commit
+: 1367501393:0;cd ..
+: 1367501406:0;git add autostarts/ zsh_history
