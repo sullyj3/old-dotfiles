@@ -4,3 +4,4 @@ compton -c --config ~/.compton.conf -b
 synapse -s &
 wicd-gtk -t&
 volti -b &
+exec echinus
