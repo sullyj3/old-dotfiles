@@ -1,0 +1,6115 @@
+info_begin
+format: 1
+mpd_version: 0.17.3
+fs_charset: UTF-8
+tag: Artist
+tag: ArtistSort
+tag: Album
+tag: AlbumArtist
+tag: AlbumArtistSort
+tag: Title
+tag: Track
+tag: Name
+tag: Genre
+tag: Date
+tag: Composer
+tag: Performer
+tag: Disc
+tag: MUSICBRAINZ_ARTISTID
+tag: MUSICBRAINZ_ALBUMID
+tag: MUSICBRAINZ_ALBUMARTISTID
+tag: MUSICBRAINZ_TRACKID
+info_end
+directory: 30 Seconds To Mars
+mtime: 1342683120
+begin: 30 Seconds To Mars
+directory: 30 Seconds To Mars
+mtime: 1359260357
+begin: 30 Seconds To Mars/30 Seconds To Mars
+song_begin: Capricorn.mp3
+Time: 233
+Artist: 30 Seconds To Mars
+AlbumArtist: 30 Seconds to Mars
+Title: Capricorn
+Album: 30 Seconds To Mars
+Track: 1
+Date: 2002
+Genre: Rock
+Composer: Jared Leto
+mtime: 1358435101
+song_end
+end: 30 Seconds To Mars/30 Seconds To Mars
+directory: A Beautiful Lie
+mtime: 1358688531
+begin: 30 Seconds To Mars/A Beautiful Lie
+song_begin: 01 - Attack.mp3
+Time: 188
+Artist: 30 seconds to mars
+AlbumArtist: 30 Seconds to Mars
+Title: Attack
+Album: A Beautiful Lie
+Track: 1
+Date: 2005
+Genre: Rock
+mtime: 1358435097
+song_end
+song_begin: 02 - A beautiful lie.mp3
+Time: 243
+Artist: 30 seconds to mars
+AlbumArtist: 30 Seconds to Mars
+Title: A Beautiful Lie
+Album: A Beautiful Lie
+Track: 2
+Date: 2005
+Genre: Rock
+mtime: 1358435084
+song_end
+song_begin: 03 - The Kill.mp3
+Time: 228
+Artist: 30 Seconds To Mars
+AlbumArtist: 30 Seconds to Mars
+Title: The Kill
+Album: A Beautiful Lie
+Track: 3
+Date: 2005
+Genre: Rock
+mtime: 1358435094
+song_end
+song_begin: 04 - Was It A Dream.mp3
+Time: 256
+Artist: 30 Seconds To Mars
+AlbumArtist: 30 Seconds to Mars
+Title: Was It A Dream
+Album: A Beautiful Lie
+Track: 4
+Date: 2005
+Genre: Rock
+mtime: 1358435065
+song_end
+song_begin: 05 - The Fantasy.mp3
+Time: 271
+Artist: 30 Seconds To Mars
+AlbumArtist: 30 Seconds to Mars
+Title: The Fantasy
+Album: A Beautiful Lie
+Track: 7
+Date: 2005
+Genre: Other
+mtime: 1358435073
+song_end
+song_begin: 07 - From yesterday.mp3
+Time: 243
+Artist: 30 seconds to mars
+AlbumArtist: 30 Seconds to Mars
+Title: From Yesterday
+Album: A Beautiful Lie
+Track: 7
+Date: 2005
+mtime: 1358435080
+song_end
+song_begin: 09 - R-Evolve.mp3
+Time: 240
+Artist: 30 Seconds to Mars
+AlbumArtist: 30 Seconds to Mars
+Title: R-Evolve
+Album: A Beautiful Lie
+Track: 9
+Date: 2005
+Genre: Rock
+mtime: 1358435088
+song_end
+song_begin: 11 - Battle of One.mp3
+Time: 167
+Artist: 30 Seconds To Mars
+AlbumArtist: 30 Seconds to Mars
+Title: Battle of One
+Album: A Beautiful Lie
+Track: 11
+Date: 2005
+Genre: Alternative
+mtime: 1358435077
+song_end
+end: 30 Seconds To Mars/A Beautiful Lie
+directory: This Is War
+mtime: 1342859520
+begin: 30 Seconds To Mars/This Is War
+song_begin: 03 - Kings And Queens.mp3
+Time: 334
+Artist: 30 Seconds To Mars
+AlbumArtist: 30 Seconds To Mars
+Title: Kings And Queens
+Album: This Is War
+Track: 03/12
+Date: 2009
+Genre: Hard Rock
+mtime: 1358435108
+song_end
+song_begin: 04 - This is war.mp3
+Time: 248
+Artist: 30 Seconds To Mars
+AlbumArtist: 30 Seconds To Mars
+Title: This is war
+Album: This Is War
+Track: 4
+Date: 2009
+Genre: Unknown
+Composer: Jared Leto
+mtime: 1358435118
+song_end
+song_begin: 07 - Closer To The Edge.mp3
+Time: 273
+Artist: 30 Seconds To Mars
+AlbumArtist: 30 Seconds To Mars
+Title: Closer To The Edge
+Album: This Is War
+Track: 07/13
+Date: 2009
+Genre: AlternRock
+Disc: 1/1
+mtime: 1358435114
+song_end
+end: 30 Seconds To Mars/This Is War
+end: 30 Seconds To Mars
+directory: A Day to Remember
+mtime: 1357441500
+begin: A Day to Remember
+directory: ADTR- What separates me from you
+mtime: 1357441920
+begin: A Day to Remember/ADTR- What separates me from you
+song_begin: Sticks & Bricks.mp3
+Time: 197
+Artist: A Day to Remember
+AlbumArtist: Aa Day To Remember
+Title: Sticks & Bricks
+Album: What Separates Me From You
+Track: 1
+Date: 2010
+Genre: Other
+mtime: 1358435154
+song_end
+song_begin: All I Want.mp3
+Time: 203
+Artist: A Day to Remember
+Title: All I Want
+Album: What Separates Me From You
+Track: 2
+Date: 2010
+Genre: Other
+mtime: 1358435205
+song_end
+song_begin: It's Complicated.mp3
+Time: 177
+Artist: A Day to Remember
+Title: It's Complicated
+Album: What Separates Me From You
+Track: 3
+Date: 2010
+Genre: Other
+mtime: 1358435137
+song_end
+song_begin: This Is The House That Doubt Built.mp3
+Time: 210
+Artist: A Day to Remember
+Title: This Is The House That Doubt Built
+Album: What Separates Me From You
+Track: 4
+Date: 2010
+Genre: Other
+mtime: 1358435146
+song_end
+song_begin: Better Off This Way.mp3
+Time: 206
+Artist: A Day to Remember
+Title: Better Off This Way
+Album: What Separates Me From You
+Track: 6
+Date: 2010
+Genre: Other
+mtime: 1358435198
+song_end
+song_begin: All Signs Point To Lauderdale.mp3
+Time: 197
+Artist: A Day to Remember
+Title: All Signs Point To Lauderdale
+Album: What Separates Me From You
+Track: 7
+Date: 2010
+Genre: Other
+mtime: 1358435191
+song_end
+song_begin: You Be Tails, I'll Be Sonic.mp3
+Time: 228
+Artist: A Day to Remember
+Title: You Be Tails, I'll Be Sonic
+Album: What Separates Me From You
+Track: 8
+Date: 2010
+Genre: Other
+mtime: 1358435163
+song_end
+song_begin: Out Of Time.mp3
+Time: 207
+Artist: A Day to Remember
+Title: Out Of Time
+Album: What Separates Me From You
+Track: 9
+Date: 2010
+Genre: Other
+mtime: 1358435172
+song_end
+song_begin: If I Leave.mp3
+Time: 204
+Artist: A Day to Remember
+Title: If I Leave
+Album: What Separates Me From You
+Track: 10
+Date: 2010
+Genre: Other
+mtime: 1358435183
+song_end
+song_begin: 2nd Sucks.mp3
+Time: 147
+Artist: A Day to Remember
+AlbumArtist: A Day to Remember
+Title: 2nd Sucks
+Album: What Separates Me From You
+Track: 0
+Date: 2010
+Genre: Hardcore
+Disc: 1
+mtime: 1358435174
+song_end
+end: A Day to Remember/ADTR- What separates me from you
+directory: For Those Who Have Heart
+mtime: 1342830420
+begin: A Day to Remember/For Those Who Have Heart
+song_begin: 04 - The Plot To Bomb The Panhandle.mp3
+Time: 244
+Artist: A Day to Remember
+AlbumArtist: A Day To Remember
+Title: The Plot To Bomb The Panhandle
+Album: For Those Who Have Heart
+Track: 4
+Date: 2008
+Genre: Hardcore Punk
+Disc: 1
+mtime: 1358435225
+song_end
+end: A Day to Remember/For Those Who Have Heart
+directory: Homesick
+mtime: 1356519540
+begin: A Day to Remember/Homesick
+song_begin: 01 - The Downfall Of Us All.mp3
+Time: 209
+Artist: A Day to Remember
+AlbumArtist: A Day to Remember
+Title: The Downfall Of Us All
+Album: Homesick
+Track: 1/
+Date: 2009
+Genre: Unknown
+Disc: 1/1
+mtime: 1358435122
+song_end
+song_begin: 11 - Welcome To The Family.mp3
+Time: 180
+Artist: A Day to Remember
+AlbumArtist: A Day to Remember
+Title: Welcome To The Family
+Album: Homesick
+Track: 11/
+Date: 2009
+Genre: Unknown
+Disc: 1/1
+mtime: 1358435126
+song_end
+song_begin: 12 - If It Means A Lot To You.mp3
+Time: 243
+Artist: A Day to Remember
+AlbumArtist: A Day to Remember
+Title: If It Means A Lot To You
+Album: Homesick
+Track: 12/
+Genre: Other
+Disc: 1/1
+mtime: 1358435130
+song_end
+end: A Day to Remember/Homesick
+song_begin: Have Faith in Me.mp3
+Time: 189
+Artist: A Day to Remember
+AlbumArtist: A Day to Remember
+Title: Have Faith in Me
+Album: Homesick
+Genre: Unknown
+mtime: 1358435211
+song_end
+song_begin: I'm Made of Wax, Larry, What are you made of_.mp3
+Time: 179
+Artist: A Day to Remember
+AlbumArtist: A Day to Remember
+Title: I'm Made of Wax, Larry, What are you made of?
+Album: Homesick
+Genre: Unknown
+mtime: 1358435217
+song_end
+song_begin: Why Walk On Water When We've Got Boats.mp3
+Time: 115
+Artist: A Day to Remember
+AlbumArtist: A Day to Remember
+Title: Why Walk On Water When We've Got Boats
+Album: Homesick
+Date: -1
+Genre: Unknown
+mtime: 1358435119
+song_end
+end: A Day to Remember
+directory: Anberlin
+mtime: 1342860780
+begin: Anberlin
+directory: Cities
+mtime: 1342859760
+begin: Anberlin/Cities
+song_begin: 01-anberlin-debut.mp3
+Time: 87
+Artist: Anberlin
+AlbumArtist: Anberlin
+Title: Debut
+Album: Cities
+Track: 1
+Date: 2007
+Genre: AlternRock
+mtime: 1358435401
+song_end
+song_begin: 03-anberlin-adelaide.mp3
+Time: 195
+Artist: Anberlin
+AlbumArtist: Anberlin
+Title: Adelaide
+Album: Cities
+Track: 3
+Date: 2007
+Genre: AlternRock
+mtime: 1358435393
+song_end
+song_begin: 04 - A Whisper And A Clamor.mp3
+Time: 205
+Artist: Anberlin
+AlbumArtist: Anberlin
+Title: A Whisper And A Clamor
+Album: Cities
+Track: 4
+Date: 2007
+Genre: AlternRock
+mtime: 1358435387
+song_end
+song_begin: 05 - The Unwinding Cable Car.mp3
+Time: 257
+Artist: Anberlin
+AlbumArtist: Anberlin
+Title: The Unwinding Cable Car
+Album: Cities
+Track: 5
+Date: 2007
+Genre: Unknown
+Composer: Deon Rexroat/Joseph Milligan/Nathan Strayer/Nathan Young/Stephen Christian
+mtime: 1358435344
+song_end
+song_begin: 06-anberlin-there_is_no_mathematics_to_love_and_loss.mp3
+Time: 192
+Artist: Anberlin
+AlbumArtist: Anberlin
+Title: There Is No Mathematics To Lov
+Album: Cities
+Track: 6
+Date: 2007
+Genre: AlternRock
+mtime: 1358435349
+song_end
+song_begin: 07 - Hello Alone.mp3
+Time: 241
+Artist: Anberlin
+AlbumArtist: Anberlin
+Title: Hello Alone
+Album: Cities
+Track: 7
+Date: 2007
+Genre: AlternRock
+mtime: 1358435324
+song_end
+song_begin: 08 - Reclusion.mp3
+Time: 208
+Artist: Anberlin
+AlbumArtist: Anberlin
+Title: Reclusion
+Album: Cities
+Track: 8
+Date: 2007
+Genre: Unknown
+Composer: Deon Rexroat/Joseph Milligan/Nathan Strayer/Nathan Young/Stephen Christian
+mtime: 1358435333
+song_end
+song_begin: 09 - Alexithymia.mp3
+Time: 203
+Artist: Anberlin
+AlbumArtist: Anberlin
+Title: Alexithymia
+Album: Cities
+Track: 9
+Date: 2007
+Genre: Unknown
+Composer: Deon Rexroat/Joseph Milligan/Nathan Strayer/Nathan Young/Stephen Christian
+mtime: 1358435400
+song_end
+song_begin: 10 - Inevitable.mp3
+Time: 227
+Artist: Anberlin
+AlbumArtist: Anberlin
+Title: Inevitable
+Album: Cities
+Track: 10
+Date: 2007
+Genre: AlternRock
+mtime: 1358435379
+song_end
+song_begin: 12-anberlin-fin.mp3
+Time: 536
+Artist: Anberlin
+AlbumArtist: Anberlin
+Title: *fin
+Album: Cities
+Track: 12
+Date: 2007
+Genre: AlternRock
+mtime: 1358435366
+song_end
+song_begin: 13-anberlin-uncanny.mp3
+Time: 208
+Artist: Anberlin
+AlbumArtist: Anberlin
+Title: Uncanny
+Album: Cities
+Track: 13
+Date: 2007
+Genre: AlternRock
+mtime: 1358435371
+song_end
+song_begin: 14-anberlin-there_is_a_light_that_never_goes_dope.mp3
+Time: 257
+Artist: Anberlin
+AlbumArtist: Anberlin
+Title: There Is A Light That Never Goes Dope
+Album: Cities
+Track: 14
+Date: 2007
+Genre: AlternRock
+mtime: 1358435304
+song_end
+song_begin: 15-anberlin-the_promise.mp3
+Time: 197
+Artist: Anberlin
+AlbumArtist: Anberlin
+Title: The Promise
+Album: Cities
+Track: 15
+Date: 2007
+Genre: AlternRock
+mtime: 1358435308
+song_end
+song_begin: 01 - Dismantle Repair.mp3
+Time: 259
+Artist: Anberlin
+AlbumArtist: Anberlin
+Title: Dismantle Repair
+Album: Cities
+Track: 1/1
+Date: 2007
+Genre: Unknown
+Composer: Deon Rexroat/Joseph Milligan/Nathan Strayer/Nathan Young/Stephen Christian
+Disc: 1/1
+mtime: 1358435352
+song_end
+end: Anberlin/Cities
+directory: Godspeed (iTunes CDS)
+mtime: 1342784940
+begin: Anberlin/Godspeed (iTunes CDS)
+song_begin: 01 - Godspeed.mp3
+Time: 185
+Artist: Anberlin
+AlbumArtist: Anberlin
+Title: Godspeed
+Album: Cities
+Track: 2
+Date: 2007
+Genre: Alternative
+mtime: 1358435266
+song_end
+end: Anberlin/Godspeed (iTunes CDS)
+directory: Never Take Friendship Personal
+mtime: 1342860000
+begin: Anberlin/Never Take Friendship Personal
+song_begin: 01 - Never Take Friendship Personal.mp3
+Time: 211
+Artist: Anberlin
+AlbumArtist: Anberlin
+Title: Never Take Friendship Personal
+Album: Never Take Friendship Personal
+Track: 1
+Date: 2005
+Genre: Rock
+mtime: 1358435283
+song_end
+song_begin: 01 - Paperthin Hymn.mp3
+Time: 198
+Artist: Anberlin
+AlbumArtist: Anberlin
+Title: Paperthin Hymn
+Album: Never Take Friendship Personal
+Track: 1
+Date: 2005
+Genre: Rock
+mtime: 1358435299
+song_end
+song_begin: 02 - Day Late Friend.mp3
+Time: 214
+Artist: Anberlin
+AlbumArtist: Anberlin
+Title: Day Late Friend
+Album: Never Take Friendship Personal
+Track: 2
+Date: 2005
+Genre: Rock
+mtime: 1358435289
+song_end
+song_begin: 03 - Runaways.mp3
+Time: 201
+Artist: Anberlin
+AlbumArtist: Anberlin
+Title: Runaways
+Album: Never Take Friendship Personal
+Track: 3
+Date: 2005
+Genre: Rock
+mtime: 1358435293
+song_end
+song_begin: 07 - Time & Confusion.mp3
+Time: 203
+Artist: Anberlin
+AlbumArtist: Anberlin
+Title: Time & Confusion
+Album: Never Take Friendship Personal
+Track: 7
+Date: 2005
+Genre: Rock
+mtime: 1358435274
+song_end
+end: Anberlin/Never Take Friendship Personal
+directory: New Surrender
+mtime: 1342860000
+begin: Anberlin/New Surrender
+song_begin: 06 - Disappear.mp3
+Time: 219
+mtime: 1358435262
+song_end
+song_begin: 01 - The Resistance.mp3
+Time: 197
+Artist: Anberlin
+AlbumArtist: Anberlin
+Title: The Resistance
+Album: New Surrender
+Track: 1
+Date: 2008
+Genre: Rock
+Composer: Anberlin/Joseph Milligan/Stephen Christian
+mtime: 1358435255
+song_end
+song_begin: 02 - Breaking.mp3
+Time: 206
+Artist: Anberlin
+AlbumArtist: Anberlin
+Title: Breaking
+Album: New Surrender
+Track: 2
+Date: 2008
+Genre: Rock
+Composer: Anberlin/Butch Walker/Joseph Milligan/Stephen Christian
+mtime: 1358435232
+song_end
+song_begin: 03 - Blame Me! Blame Me!.mp3
+Time: 189
+Artist: Anberlin
+AlbumArtist: Anberlin
+Title: Blame Me! Blame Me!
+Album: New Surrender
+Track: 3
+Date: 2008
+Genre: Other
+Composer: Anberlin/Christian McAlhaney/Joseph Milligan/Stephen Christian
+mtime: 1358435245
+song_end
+song_begin: 05 - Feel Good Drag.mp3
+Time: 188
+Artist: Anberlin
+AlbumArtist: Anberlin
+Title: Feel Good Drag
+Album: New Surrender
+Track: 5
+Date: 2008
+Genre: Rock
+Composer: Anberlin/Joseph Milligan/Stephen Christian
+mtime: 1358435238
+song_end
+end: Anberlin/New Surrender
+end: Anberlin
+directory: Atreyu
+mtime: 1342784880
+begin: Atreyu
+directory: Lead Sails Paper Anchor
+mtime: 1342785480
+begin: Atreyu/Lead Sails Paper Anchor
+song_begin: 05 - When Two Are One.mp3
+Time: 281
+Artist: Atreyu
+AlbumArtist: Atreyu
+Title: When Two Are One
+Album: Lead Sails Paper Anchor
+Track: 05
+Date: 2007
+Genre: Metalcore
+Composer: Atreyu
+Disc: 1/1
+mtime: 1358435408
+song_end
+end: Atreyu/Lead Sails Paper Anchor
+song_begin: Falling down.mp3
+Time: 180
+Artist: Atreyu
+AlbumArtist: Atreyu
+Title: Falling down
+Album: Lead Sails Paper Anchor
+Genre: Unknown
+mtime: 1358435412
+song_end
+end: Atreyu
+directory: Attack Attack! (Deluxe Reissue)
+mtime: 1362171958
+begin: Attack Attack! (Deluxe Reissue)
+song_begin: 01 Last Breath.mp3
+Time: 222
+Artist: Attack Attack!
+AlbumArtist: Attack Attack!
+Title: Last Breath
+Album: Attack Attack! (Deluxe Reissue)
+Track: 1/18
+Date: 2011
+Genre: Post-Hardcore
+mtime: 1362156030
+song_end
+song_begin: 02 Pick A Side.mp3
+Time: 161
+Artist: Attack Attack!
+AlbumArtist: Attack Attack!
+Title: Pick A Side
+Album: Attack Attack! (Deluxe Reissue)
+Track: 2/18
+Date: 2011
+Genre: Post-Hardcore
+mtime: 1362156108
+song_end
+song_begin: 03 Criminal.mp3
+Time: 200
+Artist: Attack Attack!
+AlbumArtist: Attack Attack!
+Title: Criminal
+Album: Attack Attack! (Deluxe Reissue)
+Track: 3/18
+Date: 2011
+Genre: Post-Hardcore
+mtime: 1362156044
+song_end
+song_begin: 04 All Alone.mp3
+Time: 241
+Artist: Attack Attack!
+AlbumArtist: Attack Attack!
+Title: All Alone
+Album: Attack Attack! (Deluxe Reissue)
+Track: 4/18
+Date: 2011
+Genre: Post-Hardcore
+mtime: 1362155987
+song_end
+song_begin: 05 Sexual Man Chocolate.mp3
+Time: 198
+Artist: Attack Attack!
+AlbumArtist: Attack Attack!
+Title: Sexual Man Chocolate
+Album: Attack Attack! (Deluxe Reissue)
+Track: 5/18
+Date: 2011
+Genre: Post-Hardcore
+mtime: 1362156030
+song_end
+song_begin: 06 Renob, Nevada.mp3
+Time: 194
+Artist: Attack Attack!
+AlbumArtist: Attack Attack!
+Title: Renob, Nevada
+Album: Attack Attack! (Deluxe Reissue)
+Track: 6/18
+Date: 2011
+Genre: Post-Hardcore
+mtime: 1362156056
+song_end
+song_begin: 07 I Swear I'll Change.mp3
+Time: 220
+Artist: Attack Attack!
+AlbumArtist: Attack Attack!
+Title: "I Swear I'll Change"
+Album: Attack Attack! (Deluxe Reissue)
+Track: 7/18
+Date: 2011
+Genre: Post-Hardcore
+mtime: 1362156031
+song_end
+song_begin: 08 Shut Your Mouth.mp3
+Time: 164
+Artist: Attack Attack!
+AlbumArtist: Attack Attack!
+Title: Shut Your Mouth
+Album: Attack Attack! (Deluxe Reissue)
+Track: 8/18
+Date: 2011
+Genre: Post-Hardcore
+mtime: 1362156041
+song_end
+song_begin: 09 A For Andrew.mp3
+Time: 203
+Artist: Attack Attack!
+AlbumArtist: Attack Attack!
+Title: A For Andrew
+Album: Attack Attack! (Deluxe Reissue)
+Track: 9/18
+Date: 2011
+Genre: Post-Hardcore
+mtime: 1362155948
+song_end
+song_begin: 10 Smokahontas.mp3
+Time: 234
+Artist: Attack Attack!
+AlbumArtist: Attack Attack!
+Title: Smokahontas
+Album: Attack Attack! (Deluxe Reissue)
+Track: 10/18
+Date: 2011
+Genre: Post-Hardcore
+mtime: 1362156023
+song_end
+song_begin: 11 AC-130.mp3
+Time: 107
+Artist: Attack Attack!
+AlbumArtist: Attack Attack!
+Title: AC-130
+Album: Attack Attack! (Deluxe Reissue)
+Track: 11/18
+Date: 2011
+Genre: Post-Hardcore
+mtime: 1362156043
+song_end
+song_begin: 12 Fumbles O'Brian.mp3
+Time: 177
+Artist: Attack Attack!
+AlbumArtist: Attack Attack!
+Title: Fumbles O'Brian
+Album: Attack Attack! (Deluxe Reissue)
+Track: 12/18
+Date: 2011
+Genre: Post-Hardcore
+mtime: 1362156023
+song_end
+song_begin: 13 Turbo Swag.mp3
+Time: 213
+Artist: Attack Attack!
+AlbumArtist: Attack Attack!
+Title: Turbo Swag
+Album: Attack Attack! (Deluxe Reissue)
+Track: 13/18
+Date: 2011
+Genre: Post-Hardcore
+mtime: 1362156040
+song_end
+song_begin: 14 Lonely.mp3
+Time: 337
+Artist: Attack Attack!
+AlbumArtist: Attack Attack!
+Title: Lonely
+Album: Attack Attack! (Deluxe Reissue)
+Track: 14/18
+Date: 2011
+Genre: Post-Hardcore
+mtime: 1362156044
+song_end
+song_begin: 15 Sexual Man Chocolate.mp3
+Time: 173
+Artist: Attack Attack!
+AlbumArtist: Attack Attack!
+Title: Sexual Man Chocolate (Remix)
+Album: Attack Attack! (Deluxe Reissue)
+Track: 15/18
+Date: 2011
+Genre: Post-Hardcore
+mtime: 1362155060
+song_end
+song_begin: 16 AC-130.mp3
+Time: 164
+Artist: Attack Attack!
+AlbumArtist: Attack Attack!
+Title: AC-130 (Remix)
+Album: Attack Attack! (Deluxe Reissue)
+Track: 16/18
+Date: 2011
+Genre: Post-Hardcore
+mtime: 1362154836
+song_end
+song_begin: 17 I Swear I'll Change.mp3
+Time: 188
+Artist: Attack Attack!
+AlbumArtist: Attack Attack!
+Title: "I Swear I'll Change" (Acoustic)
+Album: Attack Attack! (Deluxe Reissue)
+Track: 17/18
+Date: 2011
+Genre: Post-Hardcore
+mtime: 1362154721
+song_end
+song_begin: 18 Turbo Swag.mp3
+Time: 186
+Artist: Attack Attack!
+AlbumArtist: Attack Attack!
+Title: Turbo Swag (Acoustic)
+Album: Attack Attack! (Deluxe Reissue)
+Track: 18/18
+Date: 2011
+Genre: Post-Hardcore
+mtime: 1362154935
+song_end
+end: Attack Attack! (Deluxe Reissue)
+directory: August Burns Red
+mtime: 1357962540
+begin: August Burns Red
+directory: August Burns Red - Constellations (2009)
+mtime: 1342788420
+begin: August Burns Red/August Burns Red - Constellations (2009)
+song_begin: 01 Thirty and Seven.mp3
+Time: 199
+Artist: August Burns Red
+AlbumArtist: August Burns Red
+Title: Thirty and Seven
+Album: Constellations
+Track: 1
+Genre: Unknown
+mtime: 1358435685
+song_end
+song_begin: 02 Existence.mp3
+Time: 234
+Artist: August Burns Red
+AlbumArtist: August Burns Red
+Title: Existence
+Album: Constellations
+Track: 2
+Genre: Unknown
+mtime: 1358435675
+song_end
+song_begin: 03 Ocean of Apathy.mp3
+Time: 237
+Artist: August Burns Red
+AlbumArtist: August Burns Red
+Title: Ocean of Apathy
+Album: Constellations
+Track: 3
+Genre: Unknown
+mtime: 1358435708
+song_end
+song_begin: 04 White Washed.mp3
+Time: 226
+Artist: August Burns Red
+AlbumArtist: August Burns Red
+Title: White Washed
+Album: Constellations
+Track: 3
+Genre: Unknown
+mtime: 1358435678
+song_end
+song_begin: 05 Marianas Trench.mp3
+Time: 258
+Artist: August Burns Red
+AlbumArtist: August Burns Red
+Title: Marianas Trench
+Album: Constellations
+Track: 4
+Genre: Unknown
+mtime: 1358435682
+song_end
+song_begin: 06 The Escape Artist.mp3
+Time: 238
+Artist: August Burns Red
+AlbumArtist: August Burns Red
+Title: The Escape Artist
+Album: Constellations
+Track: 5
+Genre: Unknown
+mtime: 1358435694
+song_end
+song_begin: 07 Indonesia.mp3
+Time: 214
+Artist: August Burns Red
+AlbumArtist: August Burns Red
+Title: Indonesia
+Album: Constellations
+Track: 6
+Genre: Unknown
+mtime: 1358435696
+song_end
+song_begin: 08 Paradox.mp3
+Time: 199
+Artist: August Burns Red
+AlbumArtist: August Burns Red
+Title: Paradox
+Album: Constellations
+Track: 7
+Genre: Unknown
+mtime: 1358435705
+song_end
+song_begin: 09 Meridian.mp3
+Time: 360
+Artist: August Burns Red
+AlbumArtist: August Burns Red
+Title: Meridian
+Album: Constellations
+Track: 8
+Genre: Unknown
+mtime: 1358435703
+song_end
+song_begin: 10 Rationalist.mp3
+Time: 159
+Artist: August Burns Red
+AlbumArtist: August Burns Red
+Title: Rationalist
+Album: Constellations
+Track: 9
+Genre: Unknown
+mtime: 1358435672
+song_end
+song_begin: 11 Meddler.mp3
+Time: 234
+Artist: August Burns Red
+AlbumArtist: August Burns Red
+Title: Meddler
+Album: Constellations
+Track: 10
+Genre: Unknown
+mtime: 1358435699
+song_end
+song_begin: 12 Crusades.mp3
+Time: 312
+Artist: August Burns Red
+AlbumArtist: August Burns Red
+Title: Crusades
+Album: Constellations
+Track: 11
+Genre: Unknown
+mtime: 1358435690
+song_end
+end: August Burns Red/August Burns Red - Constellations (2009)
+directory: Metalcore- United States156mb  320kbps--August Burns Red - 2011 - Leveler [Deluxe Edition]
+mtime: 1356519600
+begin: August Burns Red/Metalcore- United States156mb  320kbps--August Burns Red - 2011 - Leveler [Deluxe Edition]
+song_begin: 01 - Empire.mp3
+Time: 233
+Artist: August Burns Red
+AlbumArtist: August Burns Red
+Title: Empire
+Album: Leveler
+Track: 01
+Date: 2011
+Genre: Metal
+mtime: 1358435516
+song_end
+song_begin: 02 - Internal Cannon.mp3
+Time: 226
+Artist: August Burns Red
+AlbumArtist: August Burns Red
+Title: Internal Cannon
+Album: Leveler
+Track: 02
+Date: 2011
+Genre: Metal
+mtime: 1358435581
+song_end
+song_begin: 03 - Divisions.mp3
+Time: 201
+Artist: August Burns Red
+AlbumArtist: August Burns Red
+Title: Divisions
+Album: Leveler
+Track: 03
+Date: 2011
+Genre: Metal
+mtime: 1358435623
+song_end
+song_begin: 04 - Cutting The Ties.mp3
+Time: 303
+Artist: August Burns Red
+AlbumArtist: August Burns Red
+Title: Cutting The Ties
+Album: Leveler
+Track: 04
+Date: 2011
+Genre: Metal
+mtime: 1358435542
+song_end
+song_begin: 05 - Pangea.mp3
+Time: 261
+Artist: August Burns Red
+AlbumArtist: August Burns Red
+Title: Pangea
+Album: Leveler
+Track: 05
+Date: 2011
+Genre: Metal
+mtime: 1358435592
+song_end
+song_begin: 06 - Carpe Diem.mp3
+Time: 338
+Artist: August Burns Red
+AlbumArtist: August Burns Red
+Title: Carpe Diem
+Album: Leveler
+Track: 06
+Date: 2011
+Genre: Metal
+mtime: 1358435507
+song_end
+song_begin: 07 - 40 Nights.mp3
+Time: 235
+Artist: August Burns Red
+AlbumArtist: August Burns Red
+Title: 40 Nights
+Album: Leveler
+Track: 07
+Date: 2011
+Genre: Metal
+mtime: 1358435670
+song_end
+song_begin: 08 - Salt & Light.mp3
+Time: 221
+Artist: August Burns Red
+AlbumArtist: August Burns Red
+Title: Salt & Light
+Album: Leveler
+Track: 08
+Date: 2011
+Genre: Metal
+mtime: 1358435614
+song_end
+song_begin: 09 - Poor Millionaire.mp3
+Time: 269
+Artist: August Burns Red
+AlbumArtist: August Burns Red
+Title: Poor Millionaire
+Album: Leveler
+Track: 09
+Date: 2011
+Genre: Metal
+mtime: 1358435645
+song_end
+song_begin: 10 - 1162011.mp3
+Time: 52
+Artist: August Burns Red
+AlbumArtist: August Burns Red
+Title: 1/16/2011
+Album: Leveler
+Track: 10
+Date: 2011
+Genre: Metal
+mtime: 1358435595
+song_end
+song_begin: 11 - Boys Of Fall.mp3
+Time: 269
+Artist: August Burns Red
+AlbumArtist: August Burns Red
+Title: Boys Of Fall
+Album: Leveler
+Track: 11
+Date: 2011
+Genre: Metal
+mtime: 1358435636
+song_end
+song_begin: 12 - Leveler.mp3
+Time: 285
+Artist: August Burns Red
+AlbumArtist: August Burns Red
+Title: Leveler
+Album: Leveler
+Track: 12
+Date: 2011
+Genre: Metal
+mtime: 1358435572
+song_end
+song_begin: 13 - Internal Cannon (Acoustic).mp3
+Time: 306
+Artist: August Burns Red
+AlbumArtist: August Burns Red
+Title: Internal Cannon (Acoustic)
+Album: Leveler
+Track: 13
+Date: 2011
+Genre: Metal
+mtime: 1358435557
+song_end
+song_begin: 14 - Pangea (Performed By The Bells).mp3
+Time: 383
+Artist: August Burns Red
+AlbumArtist: August Burns Red
+Title: Pangea (Performed By The Bells)
+Album: Leveler
+Track: 14
+Date: 2011
+Genre: Metal
+mtime: 1358435661
+song_end
+song_begin: 15 - Boys of Fall (Performed by Zachery Veilleux).mp3
+Time: 242
+Artist: August Burns Red
+AlbumArtist: August Burns Red
+Title: Boys of Fall (Performed by Zachery Veilleux)
+Album: Leveler
+Track: 15
+Date: 2011
+Genre: Metal
+mtime: 1358435526
+song_end
+song_begin: 16 - Empire (Midi).mp3
+Time: 231
+Artist: August Burns Red
+AlbumArtist: August Burns Red
+Title: Empire (Midi)
+Album: Leveler
+Track: 16
+Date: 2011
+Genre: Metal
+mtime: 1358435604
+song_end
+end: August Burns Red/Metalcore- United States156mb  320kbps--August Burns Red - 2011 - Leveler [Deluxe Edition]
+directory: Sleddin' Hill A Holiday Album
+mtime: 1357962600
+begin: August Burns Red/Sleddin' Hill A Holiday Album
+song_begin: 01 Flurries.mp3
+Time: 257
+Artist: August Burns Red
+AlbumArtist: August Burns Red
+Title: Flurries
+Album: Presents: Sleddin' Hill, A Holiday Album
+Track: 1/13
+Date: 2012
+Genre: Technical Metalcore
+Disc: 1
+mtime: 1358435458
+song_end
+song_begin: 02 Frosty The Snowman.mp3
+Time: 139
+Artist: August Burns Red
+AlbumArtist: August Burns Red
+Title: Frosty The Snowman
+Album: Presents: Sleddin' Hill, A Holiday Album
+Track: 2/13
+Date: 2012
+Genre: Technical Metalcore
+Disc: 1
+mtime: 1358435450
+song_end
+song_begin: 03 Sleigh Ride.mp3
+Time: 173
+Artist: August Burns Red
+AlbumArtist: August Burns Red
+Title: Sleigh Ride
+Album: Presents: Sleddin' Hill, A Holiday Album
+Track: 3/13
+Date: 2012
+Genre: Technical Metalcore
+Disc: 1
+mtime: 1358435481
+song_end
+song_begin: 04 God Rest Ye Merry Gentlemen.mp3
+Time: 171
+Artist: August Burns Red
+AlbumArtist: August Burns Red
+Title: God Rest Ye Merry Gentlemen
+Album: Presents: Sleddin' Hill, A Holiday Album
+Track: 4/13
+Date: 2012
+Genre: Technical Metalcore
+Disc: 1
+mtime: 1358435426
+song_end
+song_begin: 05 Jingle Bells.mp3
+Time: 254
+Artist: August Burns Red
+AlbumArtist: August Burns Red
+Title: Jingle Bells
+Album: Presents: Sleddin' Hill, A Holiday Album
+Track: 5/13
+Date: 2012
+Genre: Technical Metalcore
+Disc: 1
+mtime: 1358435421
+song_end
+song_begin: 06 Oh Holy Night.mp3
+Time: 265
+Artist: August Burns Red
+AlbumArtist: August Burns Red
+Title: Oh Holy Night
+Album: Presents: Sleddin' Hill, A Holiday Album
+Track: 6/13
+Date: 2012
+Genre: Technical Metalcore
+Disc: 1
+mtime: 1358435491
+song_end
+song_begin: 07 Rudolph The Red Nosed Reindeer.mp3
+Time: 120
+Artist: August Burns Red
+AlbumArtist: August Burns Red
+Title: Rudolph The Red Nosed Reindeer
+Album: Presents: Sleddin' Hill, A Holiday Album
+Track: 7/13
+Date: 2012
+Genre: Technical Metalcore
+Disc: 1
+mtime: 1358435495
+song_end
+song_begin: 08 Sleddin' Hill.mp3
+Time: 159
+Artist: August Burns Red
+AlbumArtist: August Burns Red
+Title: Sleddin' Hill
+Album: Presents: Sleddin' Hill, A Holiday Album
+Track: 8/13
+Date: 2012
+Genre: Technical Metalcore
+Disc: 1
+mtime: 1358435442
+song_end
+song_begin: 09 Little Drummer Boy.mp3
+Time: 259
+Artist: August Burns Red
+AlbumArtist: August Burns Red
+Title: Little Drummer Boy
+Album: Presents: Sleddin' Hill, A Holiday Album
+Track: 9/13
+Date: 2012
+Genre: Technical Metalcore
+Disc: 1
+mtime: 1358435476
+song_end
+song_begin: 10 Winter Wonderland.mp3
+Time: 116
+Artist: August Burns Red
+AlbumArtist: August Burns Red
+Title: Winter Wonderland
+Album: Presents: Sleddin' Hill, A Holiday Album
+Track: 10/13
+Date: 2012
+Genre: Technical Metalcore
+Disc: 1
+mtime: 1358435431
+song_end
+song_begin: 11 O Come O Come Emmanuel.mp3
+Time: 295
+Artist: August Burns Red
+AlbumArtist: August Burns Red
+Title: O Come O Come Emmanuel
+Album: Presents: Sleddin' Hill, A Holiday Album
+Track: 11/13
+Date: 2012
+Genre: Technical Metalcore
+Disc: 1
+mtime: 1358435466
+song_end
+song_begin: 12 Carol Of The Bells.mp3
+Time: 168
+Artist: August Burns Red
+AlbumArtist: August Burns Red
+Title: Carol Of The Bells
+Album: Presents: Sleddin' Hill, A Holiday Album
+Track: 12/13
+Date: 2012
+Genre: Technical Metalcore
+Disc: 1
+mtime: 1358435437
+song_end
+song_begin: 13 We Wish You A Merry Christmas.mp3
+Time: 151
+Artist: August Burns Red
+AlbumArtist: August Burns Red
+Title: We Wish You A Merry Christmas
+Album: Presents: Sleddin' Hill, A Holiday Album
+Track: 13/13
+Date: 2012
+Genre: Technical Metalcore
+Disc: 1
+mtime: 1358435446
+song_end
+playlist_begin: August Burns Red Presents - Sleddin' Hill A Holiday Album [2012].m3u
+mtime: 1358435431
+playlist_end
+end: August Burns Red/Sleddin' Hill A Holiday Album
+end: August Burns Red
+directory: Breaking Benjamin
+mtime: 1342784880
+begin: Breaking Benjamin
+directory: Breaking Benjamin
+mtime: 1356519540
+begin: Breaking Benjamin/Breaking Benjamin
+song_begin: 04 - Water.mp3
+Time: 242
+Artist: Breaking Benjamin
+Title: Water
+Album: Breaking Benjamin
+Track: 04
+Genre: Other
+mtime: 1358435775
+song_end
+end: Breaking Benjamin/Breaking Benjamin
+directory: Dear Agony
+mtime: 1356950640
+begin: Breaking Benjamin/Dear Agony
+song_begin: 01 - Fade Away.mp3
+Time: 201
+Artist: Breaking Benjamin
+AlbumArtist: Breaking Benjamin
+Title: Fade Away
+Album: Dear Agony
+Track: 1
+Date: 2009
+Genre: Metal
+mtime: 1358435787
+song_end
+song_begin: 02 - I Will Not Bow.mp3
+Time: 218
+Artist: Breaking Benjamin
+AlbumArtist: Breaking Benjamin
+Title: I Will Not Bow
+Album: Dear Agony
+Track: 02
+Date: 2009
+Genre: Alternative Rock
+mtime: 1358435808
+song_end
+song_begin: 04 - Give Me A Sign.mp3
+Time: 257
+Artist: Breaking Benjamin
+AlbumArtist: Breaking Benjamin
+Title: Give Me A Sign
+Album: Dear Agony
+Track: 4
+Date: 2009
+Genre: Rock
+mtime: 1358435801
+song_end
+song_begin: 07 - Anthem Of The Angels.mp3
+Time: 242
+Artist: Breaking Benjamin
+AlbumArtist: Breaking Benjamin
+Title: Anthem Of The Angels
+Album: Dear Agony
+Track: 7
+Date: 2009
+Genre: Rock
+mtime: 1358435794
+song_end
+song_begin: 09 - Dear Agony.mp3
+Time: 258
+Artist: Breaking Benjamin
+AlbumArtist: Breaking Benjamin
+Title: Dear Agony
+Album: Dear Agony
+Track: 9
+Date: 2009
+Genre: Rock
+mtime: 1358435780
+song_end
+end: Breaking Benjamin/Dear Agony
+directory: Halo2
+mtime: 1342857240
+begin: Breaking Benjamin/Halo2
+song_begin: 02 - Blow Me Away.mp3
+Time: 205
+Artist: Breaking Benjamin
+AlbumArtist: Martin O'Donnell/Michael Salvatori
+Title: Blow Me Away
+Album: Halo 2 Original Soundtrack: Volume One
+Track: 2
+Date: 2004
+Genre: Soundtrack
+Composer: Ben Burnley
+mtime: 1358435770
+song_end
+end: Breaking Benjamin/Halo2
+directory: Phobia
+mtime: 1358637165
+begin: Breaking Benjamin/Phobia
+song_begin: 02 - The Diary of Jane.mp3
+Time: 203
+Artist: Breaking Benjamin
+Title: The Diary Of Jane
+Track: 2
+mtime: 1358435720
+song_end
+song_begin: 03 - Breath.mp3
+Time: 218
+Artist: Breaking Benjamin
+AlbumArtist: Breaking Benjamin
+Title: Breath
+Album: Phobia
+Track: 3
+Date: 2006
+Genre: Rock
+mtime: 1358435717
+song_end
+song_begin: 04 - You.mp3
+Time: 202
+Artist: Breaking Benjamin
+AlbumArtist: Breaking Benjamin
+Title: You
+Album: Phobia
+Track: 4
+Date: 2006
+Genre: Rock
+mtime: 1358435738
+song_end
+song_begin: 06 - Until The End.mp3
+Time: 252
+Artist: Breaking Benjamin
+AlbumArtist: Breaking Benjamin
+Title: Until The End
+Album: Phobia
+Track: 6
+Date: 2006
+Genre: Rock
+mtime: 1358435755
+song_end
+song_begin: 09 - Here We Are.mp3
+Time: 257
+Artist: Breaking Benjamin
+AlbumArtist: Breaking Benjamin
+Title: Here We Are
+Album: Phobia
+Track: 9
+Date: 2006
+Genre: Rock
+mtime: 1358435744
+song_end
+song_begin: 10 - Unknown Soldier.mp3
+Time: 226
+Artist: Breaking Benjamin
+AlbumArtist: Breaking Benjamin
+Title: Unknown Soldier
+Album: Phobia
+Track: 10
+Date: 2006
+Genre: Rock
+mtime: 1358435727
+song_end
+song_begin: 11 - Had Enough.mp3
+Time: 227
+Artist: Breaking Benjamin
+AlbumArtist: Breaking Benjamin
+Title: Had Enough
+Album: Phobia
+Track: 11
+Date: 2006
+Genre: Metal
+mtime: 1358435749
+song_end
+song_begin: 12 - You Fight Me.mp3
+Time: 190
+Artist: Breaking Benjamin
+AlbumArtist: Breaking Benjamin
+Title: You Fight Me
+Album: Phobia
+Track: 12
+Date: 2006
+Genre: Rock
+mtime: 1358435732
+song_end
+end: Breaking Benjamin/Phobia
+directory: TBA
+mtime: 1342784940
+begin: Breaking Benjamin/TBA
+song_begin: 01 - So Cold.mp3
+Time: 285
+Artist: Breaking Benjamin
+Title: So Cold
+Album: TBA
+Track: 01
+Date: 2004
+Genre: Rock
+mtime: 1358435712
+song_end
+end: Breaking Benjamin/TBA
+directory: We Are Not Alone
+mtime: 1342683180
+begin: Breaking Benjamin/We Are Not Alone
+song_begin: 04 - Firefly.mp3
+Time: 188
+Artist: Breaking Benjamin
+AlbumArtist: Breaking Benjamin
+Title: Firefly
+Album: We Are Not Alone
+Track: 04
+Date: 2004
+Genre: Metal
+Composer: Ben Burnley/Breaking Benjamin
+mtime: 1358435765
+song_end
+song_begin: 07 - Sooner or Later.mp3
+Time: 222
+Artist: Breaking Benjamin
+AlbumArtist: Breaking Benjamin
+Title: Sooner or Later
+Album: We Are Not Alone
+Track: 07
+Date: 2004
+Genre: Metal
+Composer: Ben Burnley/Breaking Benjamin
+mtime: 1358435762
+song_end
+end: Breaking Benjamin/We Are Not Alone
+song_begin: Breakdown.mp3
+Time: 216
+Artist: Breaking Benjamin
+Title: Breakdown
+Genre: Other
+mtime: 1358435759
+song_end
+end: Breaking Benjamin
+directory: Broadway
+mtime: 1342861620
+begin: Broadway
+directory: Kingdoms
+mtime: 1342794480
+begin: Broadway/Kingdoms
+song_begin: 01 Intro.mp3
+Time: 24
+Artist: Broadway
+AlbumArtist: Broadway
+Title: Intro
+Album: Kingdoms
+Track: 1
+Date: 2009
+Genre: Other
+mtime: 1358435841
+song_end
+song_begin: 02 - Redeeming A Monster.mp3
+Time: 220
+Artist: Broadway
+AlbumArtist: Broadway
+Title: Redeeming A Monster
+Album: Kingdoms
+Track: 02
+Date: 2009
+Genre: Alternative
+Composer: Broadway
+mtime: 1358435848
+song_end
+song_begin: 03 - The Last Saturday.mp3
+Time: 272
+Artist: Broadway
+AlbumArtist: Broadway
+Title: The Last Saturday
+Album: Kingdoms
+Track: 3/
+Date: 2009
+Genre: General Mainstream Rock
+Composer: Broadwy
+mtime: 1358435841
+song_end
+song_begin: 03 Last Saturday.m4a
+Time: 271
+Title: Last Saturday
+Artist: Broadway
+Album: Kingdoms
+Track: 3
+Date: 2009
+AlbumArtist: Broadway
+Genre: Post-Hardcore
+mtime: 1358435866
+song_end
+song_begin: 04 Meg Ryan Would Play You In The Mo.mp3
+Time: 272
+Artist: Broadway
+AlbumArtist: Broadway
+Title: Meg Ryan Would Play You In The Movie
+Album: Kingdoms
+Track: 04/12
+Date: 2009
+Genre: Post Hardcore
+mtime: 1358435815
+song_end
+song_begin: 05 Don't Jump The Shark Before You Save The Whale (Ft. Jonny Craig).mp3
+Time: 259
+Artist: Broadway
+AlbumArtist: Broadway
+Title: Don't Jump The Shark Before You Save the Whale
+Album: Kingdoms
+Track: 5
+Date: 2009
+Genre: Rock
+mtime: 1358435823
+song_end
+song_begin: 06 We Are Paramount.m4a
+Time: 222
+Title: We Are Paramount
+Artist: Broadway
+Album: Kingdoms
+Track: 6
+Date: 2009
+AlbumArtist: Broadway
+Genre: Post-Hardcore
+Composer: Broadway
+mtime: 1358435833
+song_end
+song_begin: 07 Interlude.mp3
+Time: 50
+Artist: Broadway
+AlbumArtist: Broadway
+Title: Interlude
+Album: Kingdoms
+Track: 07
+Date: 2009
+Genre: Post Hardcore
+Composer: Broadway
+mtime: 1358435850
+song_end
+song_begin: 08 Gotta' Love That Southern Charm.m4a
+Time: 215
+Title: Gotta' Love That Southern Charm 
+Artist: Broadway
+Album: Kingdoms
+Track: 8
+Date: 2009
+AlbumArtist: Broadway
+mtime: 1358435890
+song_end
+song_begin: 10 AWOL.mp3
+Time: 231
+Artist: Broadway
+AlbumArtist: Broadway
+Title: A.W.O.L.
+Album: Kingdoms
+Track: 10
+Date: 2009
+Composer: Broadway
+mtime: 1358435827
+song_end
+song_begin: 11 - The Same Thing We Do Everynight Pinky.mp3
+Time: 287
+Artist: Broadway
+AlbumArtist: Broadway
+Title: The Same Thing We Do Every Night Pinky
+Album: Kingdoms
+Track: 11
+Date: 2009
+Genre: Other
+mtime: 1358435858
+song_end
+song_begin: 11 Same Thing We Do Everyday Pinky (Ft. Craig Owens of Chiodos).mp3
+Time: 285
+Artist: Broadway
+AlbumArtist: Broadway
+Title: Same Thing We Do Everyday Pinky (Ft. Craig Owens)
+Album: Kingdoms
+Track: 11/12
+Date: 2009
+Genre: Post Hardcore
+mtime: 1358435883
+song_end
+song_begin: 12 - The Prom Queen Has No Friends.mp3
+Time: 256
+Artist: Broadway
+AlbumArtist: Broadway
+Title: The Prom Queen Has No Friends
+Album: Kingdoms
+Track: 12
+Date: 2009
+Genre: General Mainstream Rock
+Composer: Broadwy
+mtime: 1358435872
+song_end
+end: Broadway/Kingdoms
+end: Broadway
+directory: Bullet For My Valentine
+mtime: 1342957860
+begin: Bullet For My Valentine
+directory: 4 Words [To Choke Upon]
+mtime: 1342784880
+begin: Bullet For My Valentine/4 Words [To Choke Upon]
+song_begin: 01 - Four Words To Choke Upon.mp3
+Time: 227
+Artist: Bullet For My Valentine
+Title: Four Words To Choke Upon
+Album: 4 Words [To Choke Upon]
+Track: 01
+Genre: Genre
+mtime: 1358435906
+song_end
+end: Bullet For My Valentine/4 Words [To Choke Upon]
+directory: Bullet For My Valentine
+mtime: 1342683240
+begin: Bullet For My Valentine/Bullet For My Valentine
+song_begin: 03 - Curses.mp3
+Time: 239
+Artist: Bullet For My Valentine
+AlbumArtist: Bullet for My Valentine
+Title: Curses
+Album: Bullet For My Valentine
+Track: 03
+Date: 2004
+Genre: Metal
+mtime: 1358436034
+song_end
+song_begin: Tears Don't Fall (Acoustic).mp3
+Time: 278
+Artist: Bullet For My Valentine
+AlbumArtist: Bullet For My Valentine
+Title: Tears Don't Fall (Acoustic)
+Album: Bullet For My Valentine
+Date: 2004
+Genre: Other
+Disc: 1/1
+mtime: 1358436048
+song_end
+song_begin: Suffocating under the Words of sorrow.mp3
+Time: 220
+Artist: Bullet For my Valentine
+Title: Suffocating under the Words of sorrow
+Album: Bullet For my Valentine
+mtime: 1358436043
+song_end
+end: Bullet For My Valentine/Bullet For My Valentine
+directory: Bullet For My Valentine EP
+mtime: 1342784880
+begin: Bullet For My Valentine/Bullet For My Valentine EP
+song_begin: 01 - Hand Of Blood.mp3
+Time: 218
+Artist: Bullet For My Valentine
+Title: Hand Of Blood
+Album: Bullet For My Valentine EP
+Track: 01
+Genre: Metal
+mtime: 1358435985
+song_end
+end: Bullet For My Valentine/Bullet For My Valentine EP
+directory: Fever
+mtime: 1342683240
+begin: Bullet For My Valentine/Fever
+song_begin: 09 - Dignity.mp3
+Time: 187
+Artist: Bullet For My Valentine
+AlbumArtist: Bullet For My Valentine
+Title: Dignity
+Album: Fever
+Track: 09/11
+Date: 2010-04-27
+Genre: Metalcore
+mtime: 1358436009
+song_end
+song_begin: 11 - Pretty On The Outside.mp3
+Time: 236
+Artist: Bullet For My Valentine
+AlbumArtist: Bullet For My Valentine
+Title: Pretty On The Outside
+Album: Fever
+Track: 11/11
+Date: 2010-04-27
+Genre: Metalcore
+mtime: 1358435991
+song_end
+song_begin: 12 - The Last Fight (Acoustic).mp3
+Time: 278
+Artist: Bullet For My Valentine
+AlbumArtist: Bullet For My Valentine
+Title: The Last Fight (Acoustic)
+Album: Fever
+Track: 12
+Date: 2010
+Genre: Metal
+mtime: 1358436004
+song_end
+song_begin: 03 - The Last Fight.mp3
+Time: 258
+Artist: Bullet For My Valentine
+AlbumArtist: Bullet For My Valentine
+Title: The Last Fight
+Album: Fever
+Track: 03
+Date: 2010
+Genre: Metalcore
+Disc: 1/1
+mtime: 1358436029
+song_end
+song_begin: 08 - Bittersweet Memories.mp3
+Time: 308
+Artist: Bullet For My Valentine
+AlbumArtist: Bullet For My Valentine
+Title: Bittersweet Memories
+Album: Fever
+Track: 08/11
+Date: 2010
+Genre: Metalcore
+Disc: 1/1
+mtime: 1358436020
+song_end
+end: Bullet For My Valentine/Fever
+directory: Scream Aim Fire
+mtime: 1342683240
+begin: Bullet For My Valentine/Scream Aim Fire
+song_begin: 03 - Hearts Burst Into Fire.mp3
+Time: 298
+Artist: Bullet For My Valentine
+AlbumArtist: Bullet for My Valentine
+Title: Hearts Burst Into Fire
+Album: Scream Aim Fire
+Track: 03/12
+Date: 2008-01-23
+Genre: Metal
+Composer: Bullet for My Valentine/Matthew Tuck
+mtime: 1358435946
+song_end
+song_begin: 04 - Waking The Demon.mp3
+Time: 248
+Artist: Bullet For My Valentine
+AlbumArtist: Bullet for My Valentine
+Title: Waking The Demon
+Album: Scream Aim Fire
+Track: 04/12
+Date: 2008-01-23
+Genre: Metal
+Composer: Bullet for My Valentine/Matthew Tuck
+mtime: 1358435953
+song_end
+song_begin: 07 - Take It Out On Me.mp3
+Time: 352
+Artist: Bullet For My Valentine
+AlbumArtist: Bullet for My Valentine
+Title: Take It Out On Me
+Album: Scream Aim Fire
+Track: 07/12
+Date: 2008-01-23
+Genre: Metal
+Composer: Benji Webbe/Bullet for My Valentine/Matthew Tuck
+mtime: 1358435964
+song_end
+song_begin: 08 - Say Goodnight.mp3
+Time: 283
+Artist: Bullet For My Valentine
+AlbumArtist: Bullet for My Valentine
+Title: Say Goodnight
+Album: Scream Aim Fire
+Track: 08/12
+Date: 2008-01-23
+Genre: Metal
+Composer: Bullet for My Valentine/Matthew Tuck
+mtime: 1358435936
+song_end
+song_begin: 11 - Forever And Always.mp3
+Time: 410
+Artist: Bullet For My Valentine
+AlbumArtist: Bullet for My Valentine
+Title: Forever And Always
+Album: Scream Aim Fire
+Track: 11
+Date: 2008-01-23
+Genre: Metal
+Composer: Bullet for My Valentine/Matthew Tuck
+mtime: 1358435929
+song_end
+end: Bullet For My Valentine/Scream Aim Fire
+directory: The Poison Digipak
+mtime: 1342784940
+begin: Bullet For My Valentine/The Poison Digipak
+song_begin: Tears Don't Fall.mp3
+Time: 349
+Artist: Bullet for My Valentine
+Title: Tears Don't Fall
+Album: The Poison Digipak
+Date: 2005
+Genre: Metal
+mtime: 1358435914
+song_end
+end: Bullet For My Valentine/The Poison Digipak
+directory: The Poison [UK]
+mtime: 1342785000
+begin: Bullet For My Valentine/The Poison [UK]
+song_begin: 08 - Room 409.mp3
+Time: 241
+Artist: Bullet For My Valentine
+AlbumArtist: Bullet For My Valentine
+Title: Room 409
+Album: The Poison [UK]
+Track: 08
+Date: 2005
+Genre: Heavy Metal
+mtime: 1358436056
+song_end
+end: Bullet For My Valentine/The Poison [UK]
+song_begin: All These Things (Revolve Around Me).mp3
+Time: 226
+Artist: Bullet For My Valentine
+Title: All These Things (Revolve Around Me)
+mtime: 1358435982
+song_end
+song_begin: Deliver Us From Evil.mp3
+Time: 359
+Artist: Bullet For My Valentine
+Title: Deliver Us From Evil
+mtime: 1358435921
+song_end
+song_begin: Hit The Floor.mp3
+Time: 210
+Artist: Bullet For My Valentine
+Title: Hit The Floor
+mtime: 1358436062
+song_end
+song_begin: Road To Nowhere.mp3
+Time: 262
+Artist: Bullet For My Valentine
+Title: Road To Nowhere
+mtime: 1358435974
+song_end
+song_begin: Scream Aim and Fire.mp3
+Time: 268
+Artist: Bullet For My Valentine
+Title: Scream Aim and Fire
+mtime: 1358435902
+song_end
+song_begin: The Poison.mp3
+Time: 220
+Artist: Bullet For My Valentine
+Title: The Poison
+mtime: 1358435900
+song_end
+end: Bullet For My Valentine
+directory: Dead by April
+mtime: 1356519480
+begin: Dead by April
+song_begin: Losing You.mp3
+Time: 237
+Artist: Dead by April
+Title: Losing You
+mtime: 1358436078
+song_end
+song_begin: What can I say.mp3
+Time: 187
+Artist: Dead by April
+Title: What can I say
+mtime: 1358436069
+song_end
+song_begin: 12 - Promise Me.mp3
+Time: 220
+Artist: Dead By April
+Title: Promise Me
+Track: 12
+Date: 2007
+Genre: Metal
+mtime: 1358436087
+song_end
+end: Dead by April
+directory: Escape the Fate
+mtime: 1342683300
+begin: Escape the Fate
+directory: Demo
+mtime: 1356519480
+begin: Escape the Fate/Demo
+song_begin: 03 - Not Good Enough For Truth Or Cliche.mp3
+Time: 221
+Artist: Escape The Fate
+AlbumArtist: Various Artists
+Title: Not Good Enough For Truth Or Cliche
+Album: Demo
+Track: 03
+Genre: Rock
+mtime: 1358436201
+song_end
+end: Escape the Fate/Demo
+directory: Dying Is Your Latest Fashion
+mtime: 1342683300
+begin: Escape the Fate/Dying Is Your Latest Fashion
+song_begin: 01 - The Web We Weave.mp3
+Time: 174
+Artist: Escape The Fate
+AlbumArtist: Escape the Fate
+Title: The Web We Weave
+Album: Dying Is Your Latest Fashion
+Track: 01
+Date: 2006
+Genre: Rock
+Composer: Escape the Fate
+mtime: 1358436148
+song_end
+song_begin: 02 - When I go Out, I Want To Go Out On A Chariot of Fire .mp3
+Time: 272
+Artist: Escape the Fate
+AlbumArtist: Escape the Fate
+Title: When I go Out, I Want To Go Out On A Chariot of Fire
+Album: Dying Is Your Latest Fashion
+Track: 02
+Date: 2006
+Genre: Screamo
+Composer: Escape the Fate
+mtime: 1358436173
+song_end
+song_begin: Situations.mp3
+Time: 188
+Artist: Escape The Fate
+AlbumArtist: Escape the Fate
+Title: Situations
+Album: Dying Is Your Latest Fashion
+Track: 03
+Date: 2006
+Genre: Alternative
+Composer: Escape the Fate
+mtime: 1358436184
+song_end
+song_begin: 05 - Reverse This Curse.mp3
+Time: 221
+Artist: Escape The Fate
+AlbumArtist: Escape the Fate
+Title: Reverse This Curse
+Album: Dying Is Your Latest Fashion
+Track: 05
+Date: 2006
+Genre: Rock
+Composer: Escape the Fate
+mtime: 1358436153
+song_end
+song_begin: 06 - Cellar Door.mp3
+Time: 276
+Artist: Escape the Fate
+AlbumArtist: Escape the Fate
+Title: Cellar Door
+Album: Dying Is Your Latest Fashion
+Track: 06
+Date: 2006
+Genre: Screamo
+Composer: Escape the Fate
+mtime: 1358436181
+song_end
+song_begin: 08 - My Apocalypse.mp3
+Time: 283
+Artist: Escape The Fate
+AlbumArtist: Escape the Fate
+Title: My Apocalypse
+Album: Dying Is Your Latest Fashion
+Track: 08
+Date: 2006
+Genre: Rock
+Composer: Escape the Fate
+mtime: 1358436160
+song_end
+song_begin: 09 - Friends And Alibis.mp3
+Time: 250
+Artist: Escape the Fate
+AlbumArtist: Escape the Fate
+Title: Friends And Alibis
+Album: Dying Is Your Latest Fashion
+Track: 09
+Date: 2006
+Genre: Screamo
+Composer: Escape the Fate
+mtime: 1358436165
+song_end
+song_begin: 11 - The Day I Left The Womb.mp3
+Time: 145
+Artist: Escape The Fate
+AlbumArtist: Escape the Fate
+Title: The Day I Left The Womb
+Album: Dying Is Your Latest Fashion
+Track: 11
+Date: 2006
+Genre: Rock
+Composer: Escape the Fate
+mtime: 1358436168
+song_end
+end: Escape the Fate/Dying Is Your Latest Fashion
+directory: Escape The Fate EP
+mtime: 1342784940
+begin: Escape the Fate/Escape The Fate EP
+song_begin: 03 - Makeup.mp3
+Time: 213
+Artist: Escape The Fate
+Title: Makeup
+Album: Escape The Fate EP
+Track: 03
+Genre: Screamo
+mtime: 1358436194
+song_end
+end: Escape the Fate/Escape The Fate EP
+directory: Issues - Single
+mtime: 1342784940
+begin: Escape the Fate/Issues - Single
+song_begin: 02 - Issues.m4a
+Time: 164
+Title: Issues
+Artist: Escape the Fate
+AlbumArtist: Escape the Fate
+Composer: monte money, Craig Mabbitt, Max Green, Robert Oritz & Michael Money
+Album: Issues - Single
+Genre: Post-Hardcore
+Track: 2
+Date: 2010
+mtime: 1358436209
+song_end
+end: Escape the Fate/Issues - Single
+directory: There's No Sympathy For The Dead
+mtime: 1342683300
+begin: Escape the Fate/There's No Sympathy For The Dead
+song_begin: 02 - There's No Sympathy For The Dead.mp3
+Time: 326
+Artist: Escape the Fate
+AlbumArtist: Escape the Fate
+Title: There's No Sympathy For The Dead
+Album: There's No Sympathy For The Dead
+Track: 02/05
+Date: 2006
+Genre: Alternative
+Composer: Escape the Fate
+mtime: 1358436235
+song_end
+song_begin: 03 - The Ransom.mp3
+Time: 230
+Artist: Escape the Fate
+AlbumArtist: Escape the Fate
+Title: The Ransom
+Album: There's No Sympathy For The Dead
+Track: 03
+Date: 2006
+Genre: Alternative
+Composer: Escape the Fate
+mtime: 1358436228
+song_end
+song_begin: 05 - The Guillotine.mp3
+Time: 273
+Artist: Escape the Fate
+AlbumArtist: Escape the Fate
+Title: The Guillotine
+Album: There's No Sympathy For The Dead
+Track: 05/05
+Date: 2006
+Genre: Other
+Composer: Escape the Fate
+mtime: 1358436225
+song_end
+end: Escape the Fate/There's No Sympathy For The Dead
+directory: There_s No Sympathy For The Dead
+mtime: 1342683300
+begin: Escape the Fate/There_s No Sympathy For The Dead
+song_begin: 03 - The Ransom.mp3
+Time: 230
+Artist: Escape The Fate
+AlbumArtist: Escape the Fate
+Title: The Ransom
+Album: There's No Sympathy For The De
+Track: 03
+Date: 2009
+Genre: Hard Rock
+Composer: Escape the Fate
+mtime: 1358436189
+song_end
+end: Escape the Fate/There_s No Sympathy For The Dead
+directory: This War Is Ours
+mtime: 1342683300
+begin: Escape the Fate/This War Is Ours
+song_begin: 03 - Ashley.mp3
+Time: 207
+Artist: Escape the Fate
+Title: Ashley
+Album: This War Is Ours
+Track: 3
+Date: 2008
+Genre: Other
+mtime: 1358436113
+song_end
+song_begin: 04 - Something.mp3
+Time: 218
+Artist: Escape The Fate
+Title: Something
+Album: This War Is Ours
+Track: 04/11
+Date: 2008
+Genre: Rock
+mtime: 1358436129
+song_end
+song_begin: 06 - Let It Go.mp3
+Time: 209
+Artist: Escape the Fate
+Title: Let It Go
+Album: This War Is Ours
+Track: 6
+Date: 2008
+Genre: Other
+mtime: 1358436108
+song_end
+song_begin: 07 - You Are So Beautiful.mp3
+Time: 168
+Artist: Escape the Fate
+Title: You Are So Beautiful
+Album: This War Is Ours
+Track: 7
+Date: 2008
+Genre: Other
+mtime: 1358436133
+song_end
+song_begin: 08 - This War Is Ours (The Guillotine Part II).mp3
+Time: 267
+Artist: Escape The Fate
+Title: This War Is Ours (The Guillotine Part II)
+Album: This War Is Ours
+Track: 08/11
+mtime: 1358436102
+song_end
+song_begin: 09 - 10 Miles Wide.mp3
+Time: 168
+Artist: Escape the Fate
+Title: 10 Miles Wide
+Album: This War Is Ours
+Track: 9
+Date: 2008
+Genre: Other
+mtime: 1358436137
+song_end
+song_begin: 10 - Harder Than You Know.mp3
+Time: 261
+Artist: Escape the Fate
+Title: Harder Than You Know
+Album: This War Is Ours
+Track: 10
+Date: 2008
+Genre: Other
+mtime: 1358436143
+song_end
+song_begin: 11 - It's Just Me.mp3
+Time: 296
+Artist: Escape the Fate
+Title: It's Just Me
+Album: This War Is Ours
+Track: 11
+Date: 2008
+Genre: Other
+mtime: 1358436120
+song_end
+song_begin: 01 - We Won't Back Down.mp3
+Time: 211
+Artist: Escape the Fate
+Title: We Won't Back Down
+Album: This War Is Ours
+Track: 01
+Date: 2008
+Genre: Rock
+Disc: 1
+mtime: 1358436098
+song_end
+song_begin: 02 - On To The Next One.mp3
+Time: 188
+Artist: Escape The Fate
+AlbumArtist: Escape the Fate
+Title: On To The Next One
+Album: This War Is Ours
+Track: 02
+Date: 2008
+Genre: Rock
+Disc: 1
+mtime: 1358436093
+song_end
+song_begin: 05 - The Flood.mp3
+Time: 213
+Artist: Escape The Fate
+Title: The Flood
+Album: This War Is Ours
+Track: 05/11
+Date: 2008
+Disc: 1/1
+mtime: 1358436124
+song_end
+end: Escape the Fate/This War Is Ours
+directory: This War Is Ours (Deluxe Edition)
+mtime: 1342683300
+begin: Escape the Fate/This War Is Ours (Deluxe Edition)
+song_begin: 13 - Behind the Mask (B-Side).mp3
+Time: 195
+Artist: Escape The Fate
+AlbumArtist: Escape The Fate
+Title: Behind the Mask (B-Side)
+Album: This War Is Ours (Deluxe Edition)
+Track: 13/15
+Date: 2010
+Genre: Post-Hardcore
+Disc: 1/1
+mtime: 1358436197
+song_end
+end: Escape the Fate/This War Is Ours (Deluxe Edition)
+directory: This War Is Ours Deluxe Special Edition
+mtime: 1356950700
+begin: Escape the Fate/This War Is Ours Deluxe Special Edition
+song_begin: 12 - Bad Blood.m4a
+Time: 257
+Title: Bad Blood
+Artist: Escape The Fate
+Album: This War Is Ours Deluxe Special Edition
+Track: 12
+Composer: Escape the Fate/John Feldman
+Date: 2008
+AlbumArtist: Escape the Fate
+Genre: Alternative
+mtime: 1358436218
+song_end
+end: Escape the Fate/This War Is Ours Deluxe Special Edition
+song_begin: As I'm Falling Down.mp3
+Time: 207
+AlbumArtist: Escape the Fate
+mtime: 1358436221
+song_end
+song_begin: Day of Wreckoning.mp3
+Time: 195
+Artist: Escape The Fate
+Title: Day of Wreckoning
+mtime: 1358436240
+song_end
+song_begin: Dragging Dead Bodies In Blue Bags Up Really Long Hills.mp3
+Time: 218
+Artist: Escape the Fate
+AlbumArtist: Escape the Fate
+Title: Dragging Dead Bodies In Blue Bags Up Really Long Hills
+Genre: Other
+mtime: 1358436204
+song_end
+song_begin: 01 - The Aftermath (The Guillotine Part III).mp3
+Time: 334
+Artist: Escape The Fate
+AlbumArtist: Escape The Fate;
+Title: The Aftermath (The Guillotine Part III)
+Track: 01
+Date: 2010
+mtime: 1358436248
+song_end
+end: Escape the Fate
+directory: Falling in Reverse
+mtime: 1342683300
+begin: Falling in Reverse
+directory: Falling In Reverse - The Drug In Me Is You [2011]
+mtime: 1342683300
+begin: Falling in Reverse/Falling In Reverse - The Drug In Me Is You [2011]
+song_begin: 1. Falling in Reverse - Raised By Wolves.mp3
+Time: 205
+Artist: Falling In Reverse
+AlbumArtist: Falling in Reverse
+Title: Raised by Wolves
+Album: The Drug In Me Is You
+Track: 01
+Date: 2011
+Genre: Alternative
+Composer: Bryan Ross/David Holdredge/Michael Baskette/Ronnie Radke
+mtime: 1358436288
+song_end
+song_begin: 2. Falling in Reverse - Tragic Magic.mp3
+Time: 246
+Artist: Falling In Reverse
+AlbumArtist: Falling in Reverse
+Title: Tragic Magic
+Album: The Drug In Me Is You
+Track: 02
+Date: 2011
+Genre: Alternative
+Composer: David Holdredge/Michael Baskette/Ronnie Radke
+mtime: 1358436297
+song_end
+song_begin: 3. Falling in Reverse - The Drug in Me is You.mp3
+Time: 219
+Artist: Falling In Reverse
+AlbumArtist: Falling in Reverse
+Title: The Drug In Me Is You
+Album: The Drug In Me Is You
+Track: 03
+Date: 2011
+Genre: Alternative
+Composer: David Holdredge/Michael Baskette/Ronnie Radke
+mtime: 1358436252
+song_end
+song_begin: 4. Falling in Reverse - I_m Not a Vampire.mp3
+Time: 232
+Artist: Falling In Reverse
+AlbumArtist: Falling in Reverse
+Title: I'm not a Vampire
+Album: The Drug In Me Is You
+Track: 04
+Date: 2011
+Genre: Alternative
+Composer: David Holdredge/Michael Baskette/Ronnie Radke
+mtime: 1358436270
+song_end
+song_begin: 5. Falling in Reverse - Good Girls Bad Guys.mp3
+Time: 195
+Artist: Falling In Reverse
+AlbumArtist: Falling in Reverse
+Title: Good Girls Bad Guys
+Album: The Drug In Me Is You
+Track: 05
+Date: 2011
+Genre: Alternative
+Composer: David Holdredge/Michael Baskette/Ronnie Radke
+mtime: 1358436256
+song_end
+song_begin: 6. Falling in Reverse - Pick Up the Phone.mp3
+Time: 277
+Artist: Falling In Reverse
+AlbumArtist: Falling in Reverse
+Title: Pick Up the Phone
+Album: The Drug In Me Is You
+Track: 06
+Date: 2011
+Genre: Alternative
+Composer: David Holdredge/Michael Baskette/Ronnie Radke
+mtime: 1358436267
+song_end
+song_begin: 7. Falling in Reverse - Don_t Mess With Ouija Boards.mp3
+Time: 294
+Artist: Falling In Reverse
+AlbumArtist: Falling in Reverse
+Title: Don't Mess With Ouija Boards
+Album: The Drug In Me Is You
+Track: 07
+Date: 2011
+Genre: Alternative
+Composer: Bryan Ross/David Holdredge/Michael Baskette/Omar Espinosa/Ronnie Radke
+mtime: 1358436285
+song_end
+song_begin: 8. Falling in Reverse - Sink Or Swim.mp3
+Time: 286
+Artist: Falling In Reverse
+AlbumArtist: Falling in Reverse
+Title: Sink Or Swim
+Album: The Drug In Me Is You
+Track: 08
+Date: 2011
+Genre: Alternative
+Composer: David Holdredge/Michael Baskette/Ronnie Radke
+mtime: 1358436275
+song_end
+song_begin: 9. Falling in Reverse - Caught Like A Fly.mp3
+Time: 277
+Artist: Falling In Reverse
+AlbumArtist: Falling in Reverse
+Title: Caught Like A Fly
+Album: The Drug In Me Is You
+Track: 09
+Date: 2011
+Genre: Alternative
+Composer: David Holdredge/Michael Baskette/Ronnie Radke
+mtime: 1358436279
+song_end
+song_begin: 10. Falling in Reverse - Goodbye Graceful.mp3
+Time: 295
+Artist: Falling In Reverse
+AlbumArtist: Falling in Reverse
+Title: Goodbye Graceful
+Album: The Drug In Me Is You
+Track: 10
+Date: 2011
+Genre: Alternative
+Composer: Bryan Ross/Michael Baskette/Omar Espinosa/Ronnie Radke
+mtime: 1358436260
+song_end
+song_begin: 11. Falling in Reverse - The Westerner.mp3
+Time: 232
+Artist: Falling In Reverse
+AlbumArtist: Falling in Reverse
+Title: The Westerner
+Album: The Drug In Me Is You
+Track: 11
+Date: 2011
+Genre: Alternative
+Composer: David Holdredge/Michael Baskette/Ronnie Radke
+mtime: 1358436292
+song_end
+end: Falling in Reverse/Falling In Reverse - The Drug In Me Is You [2011]
+end: Falling in Reverse
+directory: First Temple
+mtime: 1362171910
+begin: First Temple
+song_begin: 01 Kissing Cousins.mp3
+Time: 241
+Artist: Closure In Moscow
+AlbumArtist: Closure In Moscow
+Title: Kissing Cousins
+Album: First Temple
+Track: 1/12
+Date: 2009
+Genre: General Alternative Rock
+Disc: 1/1
+mtime: 1362156590
+song_end
+song_begin: 02 Reindeer Age.mp3
+Time: 234
+Artist: Closure In Moscow
+AlbumArtist: Closure In Moscow
+Title: Reindeer Age
+Album: First Temple
+Track: 2/14
+Date: 2009-05-05
+Genre: General Alternative Rock
+Disc: 1/1
+mtime: 1362156580
+song_end
+song_begin: 03 Sweet#Hart.mp3
+Time: 245
+Artist: Closure In Moscow
+AlbumArtist: Closure In Moscow
+Title: Sweet#Hart
+Album: First Temple
+Track: 3/12
+Date: 2009
+Genre: General Alternative Rock
+Disc: 1/1
+mtime: 1362156582
+song_end
+song_begin: 04 Vanguard.mp3
+Time: 230
+Artist: Closure In Moscow
+AlbumArtist: Closure In Moscow
+Title: Vanguard
+Album: First Temple
+Track: 4/12
+Date: 2009-05-05
+Genre: General Alternative Rock
+Disc: 1/1
+mtime: 1362156576
+song_end
+song_begin: 05 Night at the Spleen.mp3
+Time: 237
+Artist: Closure In Moscow
+AlbumArtist: Closure In Moscow
+Title: Night at the Spleen
+Album: First Temple
+Track: 5/14
+Date: 2009-05-05
+Genre: General Alternative Rock
+Disc: 1/1
+mtime: 1362156591
+song_end
+song_begin: 06 I'm A Ghost Of Twilight.mp3
+Time: 239
+Artist: Closure In Moscow
+AlbumArtist: Closure In Moscow
+Title: I'm A Ghost Of Twilight
+Album: First Temple
+Track: 6/12
+Date: 2009-05-05
+Genre: General Alternative Rock
+Disc: 1/1
+mtime: 1362156585
+song_end
+song_begin: 07 Permafrost.mp3
+Time: 218
+Artist: Closure In Moscow
+AlbumArtist: Closure In Moscow
+Title: Permafrost
+Album: First Temple
+Track: 7/14
+Date: 2009-05-05
+Genre: General Alternative Rock
+Disc: 1/1
+mtime: 1362156594
+song_end
+song_begin: 08 Deluge.mp3
+Time: 231
+Artist: Closure In Moscow
+AlbumArtist: Closure In Moscow
+Title: Deluge
+Album: First Temple
+Track: 8/12
+Date: 2009-05-05
+Genre: General Alternative Rock
+Disc: 1/1
+mtime: 1362156594
+song_end
+song_begin: 09 Afterbirth.mp3
+Time: 216
+Artist: Closure In Moscow
+AlbumArtist: Closure In Moscow
+Title: Afterbirth
+Album: First Temple
+Track: 9/12
+Date: 2009-05-05
+Genre: General Alternative Rock
+Disc: 1/1
+mtime: 1362156586
+song_end
+song_begin: 10 Arecibo Message.mp3
+Time: 266
+Artist: Closure In Moscow
+AlbumArtist: Closure In Moscow
+Title: Arecibo Message
+Album: First Temple
+Track: 10/12
+Date: 2009-05-05
+Genre: General Alternative Rock
+Disc: 1/1
+mtime: 1362156590
+song_end
+song_begin: 11 Couldn't Let You Love Me.mp3
+Time: 67
+Artist: Closure In Moscow
+AlbumArtist: Closure In Moscow
+Title: Couldn't Let You Love Me
+Album: First Temple
+Track: 11/12
+Date: 2009-05-05
+Genre: General Alternative Rock
+Disc: 1/1
+mtime: 1362156577
+song_end
+song_begin: 12 Had To Put It In The Soil.mp3
+Time: 267
+Artist: Closure In Moscow
+AlbumArtist: Closure In Moscow
+Title: Had To Put It In The Soil
+Album: First Temple
+Track: 12/12
+Date: 2009
+Genre: General Alternative Rock
+Composer: Beau McKee/Brad Kimber/Christopher DeCinque/Mansur Zennelli/Michael Barrett
+Disc: 1/1
+mtime: 1362156583
+song_end
+end: First Temple
+directory: Flyleaf
+mtime: 1342683300
+begin: Flyleaf
+directory: Flyleaf
+mtime: 1342957860
+begin: Flyleaf/Flyleaf
+song_begin: 01 - I'm So Sick.mp3
+Time: 180
+Artist: Flyleaf
+AlbumArtist: Flyleaf
+Title: I'm So Sick
+Album: Flyleaf
+Track: 01/10
+Date: 2005-10-04
+Genre: Rock
+Composer: James Culpepper/Jared Hartmann/Lacey Mosley/Pat Seals/Sameer Bhattacharya
+mtime: 1358436320
+song_end
+song_begin: 04 - Cassie.mp3
+Time: 186
+Artist: Flyleaf
+AlbumArtist: Flyleaf
+Title: Cassie
+Album: Flyleaf
+Track: 04/10
+Date: 2005-10-04
+Genre: Rock
+Composer: James Culpepper/Jared Hartmann/Lacey Mosley/M. Lewis/Pat Seals/Sameer Bhattacharya
+mtime: 1358436316
+song_end
+song_begin: 07 - All Around Me.mp3
+Time: 198
+Artist: Flyleaf
+Title: All Around Me
+Album: Flyleaf
+Track: 7
+Genre: Unknown
+mtime: 1358436310
+song_end
+song_begin: 09 - There For You.mp3
+Time: 168
+Artist: Flyleaf
+AlbumArtist: Flyleaf
+Title: There For You
+Album: Flyleaf
+Track: 09
+Date: 2005
+Genre: Metal
+Composer: James Culpepper/Jared Hartmann/Lacey Mosley/M. Lewis/Pat Seals/Sameer Bhattacharya
+mtime: 1358436324
+song_end
+song_begin: Again.mp3
+Time: 189
+Artist: Flyleaf
+AlbumArtist: Flyleaf
+Title: Again
+Album: Memento Mori
+Track: 2
+Genre: Unknown
+mtime: 1358436306
+song_end
+end: Flyleaf/Flyleaf
+end: Flyleaf
+directory: From marie
+mtime: 1360549852
+begin: From marie
+song_begin: 01 - Dean Gray - American Jesus.mp3
+Time: 520
+Artist: Dean Gray
+Title: American Jesus
+Album: American Edit
+Track: 1/11
+Date: 2005
+Genre: Mash-Up
+mtime: 1297654234
+song_end
+song_begin: 02 - Dean Gray - Dr Who on Holiday.mp3
+Time: 298
+Artist: Dean Gray
+Title: Dr. Who on Holiday
+Album: American Edit
+Track: 2/11
+Date: 2005
+Genre: Mash-Up
+mtime: 1297654234
+song_end
+song_begin: 03 - Dean Gray - Boulevard of Broken Songs.mp3
+Time: 283
+Artist: Dean Gray
+Title: Boulevard of Broken Songs
+Album: American Edit
+Track: 3/11
+Date: 2005
+Genre: Mash-Up
+mtime: 1297654234
+song_end
+song_begin: 04 - Dean Gray - The Bad Homecoming (Waiting).mp3
+Time: 205
+Artist: Dean Gray
+Title: The Bad Homecoming (Waiting)
+Album: American Edit
+Track: 4/11
+Date: 2005
+Genre: Mash-Up
+mtime: 1297654234
+song_end
+song_begin: 05 - Dean Gray - St Jimmy the Prankster.mp3
+Time: 143
+Artist: Dean Gray
+Title: St Jimmy The Prankster
+Album: American Edit
+Track: 5/11
+Date: 2005
+Genre: Mash-Up
+mtime: 1297654234
+song_end
+song_begin: 06 - Dean Gray - Novocaine Rhapsody.mp3
+Time: 254
+Artist: Dean Gray
+Title: Novocaine Rhapsody
+Album: American Edit
+Track: 6/11
+Date: 2005
+Genre: Mash-Up
+mtime: 1297654234
+song_end
+song_begin: 07 - Dean Gray - Impossible Rebel.mp3
+Time: 125
+Artist: Dean Gray
+Title: Impossible Rebel
+Album: American Edit
+Track: 7/11
+Date: 2005
+Genre: Mash-Up
+mtime: 1297654234
+song_end
+song_begin: 08 - Dean Gray - Ashanti's Letterbomb.mp3
+Time: 272
+Artist: Dean Gray
+Title: Ashanti's Letterbomb
+Album: American Edit
+Track: 8/11
+Date: 2005
+Genre: Mash-Up
+mtime: 1297654234
+song_end
+song_begin: 09 - Dean Gray - Greenday Massacre.mp3
+Time: 224
+Artist: Dean Gray
+Title: Greenday Massacre
+Album: American Edit
+Track: 9/11
+Date: 2005
+Genre: Mash-Up
+mtime: 1297654234
+song_end
+song_begin: 10 - Dean Gray - Whatsername (Susanna Hoffs).mp3
+Time: 207
+Artist: Dean Gray
+Title: Whatsername (Susanna Hoffs)
+Album: American Edit
+Track: 10/11
+Date: 2005
+Genre: Mash-Up
+mtime: 1297654234
+song_end
+song_begin: 11 - Dean Gray - Boulevard of Broken Songs (Dance Mix 05).mp3
+Time: 379
+Artist: Dean Gray
+Title: Boulevard of Broken Songs (Dance Mix '05)
+Album: American Edit
+Track: 11/11
+Date: 2005
+Genre: Mash-Up
+mtime: 1297654234
+song_end
+end: From marie
+directory: Get Scared
+mtime: 1357478820
+begin: Get Scared
+directory: Best Kind of Mess
+mtime: 1342683300
+begin: Get Scared/Best Kind of Mess
+song_begin: 01 Scream.mp3
+Time: 220
+Artist: Get Scared
+AlbumArtist: Get Scared
+Title: Screaming
+Album: Best Kind of Mess
+Track: 01
+Date: 2011
+Genre: Rock
+Composer: Johnny Braddock, Brad Iverson, Nick Matthews, John Feldmann & Dan Juarez
+Disc: 1/1
+mtime: 1358436405
+song_end
+song_begin: 02 Fail.mp3
+Time: 170
+Artist: Get Scared
+AlbumArtist: Get Scared
+Title: Fail
+Album: Best Kind of Mess
+Track: 02
+Date: 2011
+Genre: Rock
+Composer: Johnny Braddock, Brad Iverson, Nick Matthews & John Feldmann
+Disc: 1/1
+mtime: 1358436352
+song_end
+song_begin: 03 Mess.mp3
+Time: 244
+Artist: Get Scared
+AlbumArtist: Get Scared
+Title: Mess
+Album: Best Kind of Mess
+Track: 03
+Date: 2011
+Genre: Rock
+Composer: Johnny Braddock, Brad Iverson, Nick Matthews, John Feldmann & Dan Juarez
+Disc: 1/1
+mtime: 1358436339
+song_end
+song_begin: 04 Sarcasm.mp3
+Time: 198
+Artist: Get Scared
+AlbumArtist: Get Scared
+Title: Sarcasm
+Album: Best Kind of Mess
+Track: 04
+Date: 2011
+Genre: Rock
+Composer: Johnny Braddock, Brad Iverson, Nick Matthews & John Feldmann
+Disc: 1/1
+mtime: 1358436397
+song_end
+song_begin: 05 Whore.mp3
+Time: 177
+Artist: Get Scared
+AlbumArtist: Get Scared
+Title: Whore
+Album: Best Kind of Mess
+Track: 05
+Date: 2011
+Genre: Rock
+Composer: Johnny Braddock, Brad Iverson, Nick Matthews, John Feldmann & Dan Juarez
+Disc: 1/1
+mtime: 1358436359
+song_end
+song_begin: 06 Hurt.mp3
+Time: 241
+Artist: Get Scared
+AlbumArtist: Get Scared
+Title: Hurt
+Album: Best Kind of Mess
+Track: 06
+Date: 2011
+Genre: Rock
+Composer: Johnny Braddock, Brad Iverson, Nick Matthews, Dan Juarez & Kevin Griffin
+Disc: 1/1
+mtime: 1358436421
+song_end
+song_begin: 07 Voodoo.mp3
+Time: 176
+Artist: Get Scared
+AlbumArtist: Get Scared
+Title: Voodoo
+Album: Best Kind of Mess
+Track: 07
+Date: 2011
+Genre: Rock
+Composer: Johnny Braddock, Brad Iverson, Nick Matthews & John Feldmann
+Disc: 1/1
+mtime: 1358436413
+song_end
+song_begin: 08 Wrong.mp3
+Time: 214
+Artist: Get Scared
+AlbumArtist: Get Scared
+Title: Wrong
+Album: Best Kind of Mess
+Track: 08
+Date: 2011
+Genre: Rock
+Composer: Johnny Braddock, Brad Iverson, Nick Matthews & John Feldmann
+Disc: 1/1
+mtime: 1358436346
+song_end
+song_begin: 09 Moving.mp3
+Time: 217
+Artist: Get Scared
+AlbumArtist: Get Scared
+Title: Moving
+Album: Best Kind of Mess
+Track: 09
+Date: 2011
+Genre: Rock
+Composer: Johnny Braddock, Brad Iverson, Nick Matthews, John Feldmann & Dan Juarez
+Disc: 1/1
+mtime: 1358436375
+song_end
+song_begin: 10 Parade.mp3
+Time: 221
+Artist: Get Scared
+AlbumArtist: Get Scared
+Title: Parade
+Album: Best Kind of Mess
+Track: 10
+Date: 2011
+Genre: Rock
+Composer: Johnny Braddock, Brad Iverson, Nick Matthews & John Feldmann
+Disc: 1/1
+mtime: 1358436391
+song_end
+song_begin: 11 Hate.mp3
+Time: 225
+Artist: Get Scared
+AlbumArtist: Get Scared
+Title: Hate
+Album: Best Kind of Mess
+Track: 11
+Date: 2011
+Genre: Rock
+Composer: Johnny Braddock, Brad Iverson, Nick Matthews, Dan Juarez, Shep Goodman & Aaron Accetta
+Disc: 1/1
+mtime: 1358436384
+song_end
+song_begin: 12 Drown.mp3
+Time: 238
+Artist: Get Scared
+AlbumArtist: Get Scared
+Title: Drown
+Album: Best Kind of Mess
+Track: 12
+Date: 2011
+Genre: Rock
+Composer: Johnny Braddock, Brad Iverson, Nick Matthews, John Feldmann & Dan Juarez
+Disc: 1/1
+mtime: 1358436367
+song_end
+end: Get Scared/Best Kind of Mess
+directory: Get Scared [EP]
+mtime: 1356519600
+begin: Get Scared/Get Scared [EP]
+song_begin: 03 - Deepest Cut.mp3
+Time: 201
+Artist: Get Scared
+AlbumArtist: Get Scared
+Title: Deepest Cut
+Album: Get Scared [EP]
+Track: 3/
+Date: 2010
+Genre: General Mainstream Rock
+Composer: Brad Iverson
+Disc: 1/1
+mtime: 1358436331
+song_end
+end: Get Scared/Get Scared [EP]
+end: Get Scared
+directory: Good Charlotte
+mtime: 1358436492
+begin: Good Charlotte
+directory: Cardiology
+mtime: 1342861860
+begin: Good Charlotte/Cardiology
+song_begin: 03 - Counting The Days.mp3
+Time: 173
+Artist: Good Charlotte
+AlbumArtist: Good Charlotte
+Title: Counting The Days
+Album: Cardiology
+Track: 03/15
+Date: 2010
+Genre: Punk
+Composer: Benji Madden/Joel Madden/John Feldman
+mtime: 1358436429
+song_end
+song_begin: 04 - Silver Screen Romance.mp3
+Time: 192
+Artist: Good Charlotte
+AlbumArtist: Good Charlotte
+Title: Silver Screen Romance
+Album: Cardiology
+Track: 04/15
+Date: 2010
+Genre: Punk
+Composer: Benji Madden/Don Gilmore/Joel Madden
+mtime: 1358436435
+song_end
+song_begin: 07 - Sex On The Radio.mp3
+Time: 197
+Artist: Good Charlotte
+AlbumArtist: Good Charlotte
+Title: Sex On The Radio
+Album: Cardiology
+Track: 7/15
+Date: 2010-11-02
+Genre: Punk
+mtime: 1358436438
+song_end
+song_begin: 02 - Let the Music Play.mp3
+Time: 253
+Artist: Good Charlotte
+AlbumArtist: Good Charlotte
+Title: Let the Music Play
+Album: Cardiology
+Track: 02/16
+Date: 2010
+Genre: Pop
+Disc: 1/1
+mtime: 1358436445
+song_end
+song_begin: 10 - Harlow's Song (Can't Dream Without You).mp3
+Time: 214
+Artist: Good Charlotte
+AlbumArtist: Good Charlotte
+Title: Harlow's Song (Can't Dream Without You)
+Album: Cardiology
+Track: 10/16
+Date: 2010
+Genre: Pop
+Disc: 1/1
+mtime: 1358436425
+song_end
+end: Good Charlotte/Cardiology
+directory: The Chronicles of Life and Death [Death Version]
+mtime: 1342785120
+begin: Good Charlotte/The Chronicles of Life and Death [Death Version]
+song_begin: 02 - The Chronicles of Life and Death.mp3
+Time: 183
+Artist: Good Charlotte
+AlbumArtist: Good Charlotte
+Title: The Chronicles of Life and Death
+Album: The Chronicles of Life and Death
+Track: 2
+Date: 2004
+Genre: Unknown
+Composer: Benji Madden/Joel Madden
+mtime: 1358436459
+song_end
+song_begin: 03 - Walk Away (Maybe).mp3
+Time: 141
+Artist: Good Charlotte
+AlbumArtist: Good Charlotte
+Title: Walk Away (Maybe)
+Album: The Chronicles of Life and Death
+Track: 3
+Date: 2004
+Genre: Unknown
+Composer: Benji Madden/Joel Madden
+mtime: 1358436492
+song_end
+song_begin: 04 - S.O.S..mp3
+Time: 222
+Artist: Good Charlotte
+AlbumArtist: Good Charlotte
+Title: S.O.S.
+Album: The Chronicles of Life and Death
+Track: 4
+Date: 2004
+Genre: Unknown
+Composer: Benji Madden/Joel Madden
+mtime: 1358436448
+song_end
+song_begin: 05 - I just wanna live.mp3
+Time: 166
+Artist: Good Charlotte
+AlbumArtist: Good Charlotte
+Title: I just wanna live
+Album: The Chronicles of Life and Death
+Track: 5
+Date: 2004
+Genre: Unknown
+Composer: Benji Madden/Joel Madden
+mtime: 1358436450
+song_end
+song_begin: 06 - ghost of you.mp3
+Time: 290
+Artist: Good Charlotte
+AlbumArtist: Good Charlotte
+Title: ghost of you
+Album: The Chronicles of Life and Death
+Track: 6
+Date: 2004
+Genre: Unknown
+Composer: Benji Madden/Joel Madden
+mtime: 1358436489
+song_end
+song_begin: 07 - Predictable.mp3
+Time: 191
+Artist: Good Charlotte
+AlbumArtist: Good Charlotte
+Title: Predictable
+Album: The Chronicles of Life and Death
+Track: 7
+Date: 2004
+Genre: Unknown
+Composer: Benji Madden/Joel Madden
+mtime: 1358436481
+song_end
+song_begin: 08 - Secrets.mp3
+Time: 233
+Artist: Good Charlotte
+AlbumArtist: Good Charlotte
+Title: Secrets
+Album: The Chronicles of Life and Death
+Track: 8
+Date: 2004
+Genre: Unknown
+Composer: Benji Madden/Joel Madden
+mtime: 1358436479
+song_end
+song_begin: 10 - The World is Black.mp3
+Time: 186
+Artist: Good Charlotte
+AlbumArtist: Good Charlotte
+Title: The World is Black
+Album: The Chronicles of Life and Death
+Track: 10
+Date: 2004
+Genre: Unknown
+Composer: Benji Madden/Joel Madden
+mtime: 1358436469
+song_end
+song_begin: 11 - Mountain.mp3
+Time: 273
+Artist: Good Charlotte
+AlbumArtist: Good Charlotte
+Title: Mountain
+Album: The Chronicles of Life and Death
+Track: 11
+Date: 2004
+Genre: Unknown
+Composer: Benji Madden/Joel Madden
+mtime: 1358436453
+song_end
+song_begin: 12 - We Believe.mp3
+Time: 231
+Artist: Good Charlotte
+AlbumArtist: Good Charlotte
+Title: We Believe
+Album: The Chronicles of Life and Death
+Track: 12
+Date: 2004
+Genre: Unknown
+Composer: Benji Madden/Joel Madden
+mtime: 1358436456
+song_end
+song_begin: 13 - It Wasn't Enough.mp3
+Time: 204
+Artist: Good Charlotte
+AlbumArtist: Good Charlotte
+Title: It Wasn't Enough
+Album: The Chronicles of Life and Death
+Track: 13
+Date: 2004
+Genre: Unknown
+Composer: Benji Madden/Joel Madden
+mtime: 1358436461
+song_end
+song_begin: 14 - In This World (Murder).mp3
+Time: 326
+Artist: Good Charlotte
+AlbumArtist: Good Charlotte
+Title: In This World (Murder)
+Album: The Chronicles of Life and Death
+Track: 14
+Date: 2004
+Genre: Unknown
+Composer: Benji Madden/Joel Madden
+mtime: 1358436466
+song_end
+song_begin: 15 - Meet My Maker [_].mp3
+Time: 518
+Artist: Good Charlotte
+AlbumArtist: Good Charlotte
+Title: Meet My Maker [*]
+Album: The Chronicles of Life and Death
+Track: 15
+Date: 2004
+Genre: Unknown
+Composer: Benji Madden/Joel Madden
+mtime: 1358436475
+song_end
+end: Good Charlotte/The Chronicles of Life and Death [Death Version]
+end: Good Charlotte
+directory: Greenday
+mtime: 1358438052
+begin: Greenday
+directory: 21st Century Breakdown
+mtime: 1358438075
+begin: Greenday/21st Century Breakdown
+song_begin: 05 - Before the Lobotomy.mp3
+Time: 276
+Artist: Green Day
+AlbumArtist: Greenday
+Title: Before the Lobotomy
+Album: 21st Century Breakdown
+Track: 5
+Date: 2009
+Genre: Alternative
+Composer: Billie Joe Armstrong/Green Day
+mtime: 1358438063
+song_end
+song_begin: 06 - Christian's Inferno.mp3
+Time: 187
+Artist: Green Day
+AlbumArtist: Greenday
+Title: Christian's Inferno
+Album: 21st Century Breakdown
+Track: 6
+Date: 2009
+Genre: Alternative
+Composer: Billie Joe Armstrong/Green Day
+mtime: 1358438069
+song_end
+song_begin: 09 - Peacemaker.mp3
+Time: 204
+Artist: Green Day
+AlbumArtist: Greenday
+Title: Peacemaker
+Album: 21st Century Breakdown
+Track: 9
+Date: 2009
+Genre: Alternative
+Composer: Billie Joe Armstrong/Green Day
+mtime: 1358438067
+song_end
+song_begin: 10 - Last of the American Girls.mp3
+Time: 230
+Artist: Green Day
+AlbumArtist: Greenday
+Title: Last of the American Girls
+Album: 21st Century Breakdown
+Track: 10
+Date: 2009
+Genre: Alternative
+Composer: Billie Joe Armstrong/Green Day
+mtime: 1358438055
+song_end
+song_begin: 11 - Murder City.mp3
+Time: 174
+Artist: Green Day
+AlbumArtist: Greenday
+Title: Murder City
+Album: 21st Century Breakdown
+Track: 11
+Date: 2009
+Genre: Alternative
+Composer: Billie Joe Armstrong/Green Day
+mtime: 1358438065
+song_end
+song_begin: 13 - Restless Heart Syndrome.mp3
+Time: 261
+Artist: Green Day
+AlbumArtist: Greenday
+Title: Restless Heart Syndrome
+Album: 21st Century Breakdown
+Track: 13
+Date: 2009
+Genre: Alternative
+Composer: Billie Joe Armstrong/Green Day
+mtime: 1358438060
+song_end
+song_begin: 14 - Horseshoes and Handgrenades.mp3
+Time: 194
+Artist: Green Day
+AlbumArtist: Greenday
+Title: Horseshoes and Handgrenades
+Album: 21st Century Breakdown
+Track: 14
+Date: 2009
+Genre: Alternative
+Composer: Billie Joe Armstrong/Green Day
+mtime: 1358438076
+song_end
+song_begin: 15 - The Static Age.mp3
+Time: 256
+Artist: Green Day
+AlbumArtist: Greenday
+Title: The Static Age
+Album: 21st Century Breakdown
+Track: 15
+Date: 2009
+Genre: Alternative
+Composer: Billie Joe Armstrong/Green Day
+mtime: 1358438057
+song_end
+song_begin: 17 - American Eulogy_ A. Mass Hysteria_B. Modern World.mp3
+Time: 265
+Artist: Green Day
+AlbumArtist: Greenday
+Title: American Eulogy: A. Mass Hysteria/B. Modern World
+Album: 21st Century Breakdown
+Track: 17
+Date: 2009
+Genre: Alternative
+Composer: Billie Joe Armstrong/Green Day
+mtime: 1358438075
+song_end
+song_begin: 18 - See the Light.mp3
+Time: 275
+Artist: Green Day
+AlbumArtist: Greenday
+Title: See the Light
+Album: 21st Century Breakdown
+Track: 18
+Date: 2009
+Genre: Alternative
+Composer: Billie Joe Armstrong/Green Day
+mtime: 1358438072
+song_end
+end: Greenday/21st Century Breakdown
+directory: Dookie
+mtime: 1342683420
+begin: Greenday/Dookie
+song_begin: 11 - Coming Clean.mp3
+Time: 95
+Artist: Green Day
+AlbumArtist: Greenday
+Title: Coming Clean
+Album: Dookie
+Track: 11
+Date: 1994
+Genre: Rock
+Composer: Billie Joe Armstrong/Green Day
+mtime: 1358438051
+song_end
+song_begin: 13 - In the End.mp3
+Time: 106
+Artist: Green Day
+AlbumArtist: Greenday
+Title: In the End
+Album: Dookie
+Track: 13
+Date: 1994
+Genre: Other
+Composer: Billie Joe Armstrong/Green Day
+mtime: 1358438052
+song_end
+song_begin: 15 - Good Riddance.mp3
+Time: 154
+Artist: Green Day
+AlbumArtist: Greenday
+Title: Good Riddance
+Album: Dookie
+Track: 15
+Date: 2001
+Genre: Punk Rock
+Composer: Billie Joe Armstrong/Green Day
+mtime: 1358438050
+song_end
+end: Greenday/Dookie
+directory: Warning
+mtime: 1342683420
+begin: Greenday/Warning
+song_begin: 01 - Warning.mp3
+Time: 222
+Artist: Greenday
+AlbumArtist: Greenday
+Title: Warning
+Album: Warning
+Track: 01
+Date: 2000
+Genre: Alternative
+Composer: Billie Joe Armstrong/Green Day
+mtime: 1358438044
+song_end
+song_begin: 10 - Waiting.mp3
+Time: 194
+Artist: Greenday
+AlbumArtist: Greenday
+Title: Waiting
+Album: Warning
+Track: 10
+Date: 2000
+Genre: Other
+Composer: Billie Joe Armstrong/Green Day
+mtime: 1358438046
+song_end
+song_begin: 11 - Minority.mp3
+Time: 169
+Artist: Greenday
+AlbumArtist: Greenday
+Title: Minority
+Album: Warning
+Track: 11
+Date: 2000
+Genre: Other
+Composer: Billie Joe Armstrong/Green Day
+mtime: 1358438048
+song_end
+end: Greenday/Warning
+song_begin: .mp3
+Time: 100
+Artist: Greenday
+Genre: Other
+mtime: 1358438048
+song_end
+end: Greenday
+directory: Greenday_U2
+mtime: 1342784940
+begin: Greenday_U2
+song_begin: The Saints Are Coming.mp3
+Time: 202
+Artist: Green Day/U2
+AlbumArtist: Greenday
+Title: The Saints Are Coming
+mtime: 1358438041
+song_end
+end: Greenday_U2
+directory: Jamie Cullum - Twentysomething
+mtime: 1362172094
+begin: Jamie Cullum - Twentysomething
+song_begin: All at sea.mp3
+Time: 273
+mtime: 1362159381
+song_end
+song_begin: Blame it on my youth.mp3
+Time: 191
+mtime: 1362159355
+song_end
+song_begin: Bonus BBC Live Sessions.mp3
+Time: 1126
+mtime: 1362159378
+song_end
+song_begin: But for Now.mp3
+Time: 236
+mtime: 1362159304
+song_end
+song_begin: I could have danced all night.mp3
+Time: 205
+mtime: 1362159366
+song_end
+song_begin: I get a kick out of you.mp3
+Time: 250
+mtime: 1362159341
+song_end
+song_begin: It's about time.mp3
+Time: 247
+mtime: 1362159351
+song_end
+song_begin: Lover you should have come over.mp3
+Time: 290
+mtime: 1362159300
+song_end
+song_begin: Next year baby.mp3
+Time: 289
+mtime: 1362159378
+song_end
+song_begin: Old Devil Moon.mp3
+Time: 251
+mtime: 1362159322
+song_end
+song_begin: Singin in the rain.mp3
+Time: 248
+mtime: 1362159370
+song_end
+song_begin: The Wind Cries Mary.mp3
+Time: 216
+mtime: 1362159375
+song_end
+song_begin: These are the days.mp3
+Time: 202
+mtime: 1362159314
+song_end
+song_begin: Twentysomething.mp3
+Time: 221
+mtime: 1362159326
+song_end
+song_begin: What a difference a day makes.mp3
+Time: 309
+mtime: 1362159367
+song_end
+playlist_begin: Jamie Cullum Twentysomething.m3u
+mtime: 1362154046
+playlist_end
+end: Jamie Cullum - Twentysomething
+directory: My Chemical Romance
+mtime: 1342956960
+begin: My Chemical Romance
+directory: The Black Parade
+mtime: 1342785000
+begin: My Chemical Romance/The Black Parade
+song_begin: 05 - Welcome To The Black Parade.mp3
+Time: 309
+Artist: My Chemical Romance
+AlbumArtist: My Chemical Romance
+Title: Welcome To The Black Parade
+Album: The Black Parade
+Track: 05
+Date: 2006
+Date: 2006
+Genre: Alternative
+Composer: My Chemical Romance
+mtime: 1358437966
+song_end
+song_begin: 06 - I Don't Love You.mp3
+Time: 239
+Artist: My Chemical Romance
+AlbumArtist: My Chemical Romance
+Title: I Don't Love You
+Album: The Black Parade
+Track: 06/14
+Date: 2006-10-24
+Genre: Rock
+Composer: My Chemical Romance
+mtime: 1358437954
+song_end
+song_begin: 09 - Mama.mp3
+Time: 279
+Artist: My Chemical Romance
+AlbumArtist: My Chemical Romance
+Title: Mama
+Album: The Black Parade
+Track: 09/14
+Date: 2006-10-24
+Genre: Rock
+Composer: My Chemical Romance
+mtime: 1358437949
+song_end
+song_begin: 11 - Teenagers.mp3
+Time: 162
+Artist: My Chemical Romance
+AlbumArtist: My Chemical Romance
+Title: Teenagers
+Album: The Black Parade
+Track: 11/14
+Date: 2006-10-24
+Genre: Rock
+Composer: My Chemical Romance
+mtime: 1358437963
+song_end
+song_begin: 13 - Famous Last Words.mp3
+Time: 299
+Artist: My Chemical Romance
+AlbumArtist: My Chemical Romance
+Title: Famous Last Words
+Album: The Black Parade
+Track: 13/14
+Date: 2006-10-24
+Genre: Rock
+Composer: My Chemical Romance
+mtime: 1358437960
+song_end
+end: My Chemical Romance/The Black Parade
+directory: The Watchmen Soundtrack
+mtime: 1342785000
+begin: My Chemical Romance/The Watchmen Soundtrack
+song_begin: 02 - Desolation Row.mp3
+Time: 191
+Artist: My Chemical Romance
+Title: Desolation Row
+Track: 2
+Genre: Unknown
+mtime: 1358438037
+song_end
+end: My Chemical Romance/The Watchmen Soundtrack
+directory: Three Cheers For Sweet Revenge
+mtime: 1342785060
+begin: My Chemical Romance/Three Cheers For Sweet Revenge
+song_begin: 01 - Helena.mp3
+Time: 203
+Artist: My Chemical Romance
+AlbumArtist: My Chemical Romance
+Title: Helena
+Album: Three Cheers For Sweet Revenge
+Track: 01
+Date: 2004
+Genre: Punk Rock
+Composer: My Chemical Romance
+mtime: 1358437975
+song_end
+song_begin: 05 - I'm Not Okay.mp3
+Time: 189
+Artist: My Chemical Romance
+AlbumArtist: My Chemical Romance
+Title: I'm Not Okay
+Album: Three Cheers For Sweet Revenge
+Track: 05/13
+Date: 2004
+Genre: Alternative
+Composer: My Chemical Romance
+mtime: 1358437969
+song_end
+song_begin: 06 - The Ghost Of You.mp3
+Time: 203
+Artist: My Chemical Romance
+AlbumArtist: My Chemical Romance
+Title: The Ghost Of You
+Album: Three Cheers For Sweet Revenge
+Track: 06
+Date: 2004
+Genre: Punk
+Composer: My Chemical Romance
+mtime: 1358437972
+song_end
+end: My Chemical Romance/Three Cheers For Sweet Revenge
+directory: my chemicalromance kill joys
+mtime: 1342957260
+begin: My Chemical Romance/my chemicalromance kill joys
+song_begin: 01-my_chemical_romance-look_alive_sunshine.mp3
+Time: 30
+Artist: My Chemical Romance
+Title: Look Alive, Sunshine
+Album: Danger Days: The True Lives Of The Fabulous Killjoys
+Track: 1/15
+Date: 2010-11-22
+Genre: Rock
+mtime: 1358438031
+song_end
+song_begin: 02-my_chemical_romance-na_na_na_(na_na_na_na_na_na_na_na_na).mp3
+Time: 206
+Artist: My Chemical Romance
+Title: Na Na Na (Na Na Na Na Na Na Na Na Na)
+Album: Danger Days: The True Lives Of The Fabulous Killjoys
+Track: 2/15
+Date: 2010-11-22
+Genre: Rock
+mtime: 1358437979
+song_end
+song_begin: 03-my_chemical_romance-bulletproof_heart.mp3
+Time: 297
+Artist: My Chemical Romance
+Title: Bulletproof Heart
+Album: Danger Days: The True Lives Of The Fabulous Killjoys
+Track: 3/15
+Date: 2010-11-22
+Genre: Rock
+mtime: 1358438025
+song_end
+song_begin: 04-my_chemical_romance-sing.mp3
+Time: 270
+Artist: My Chemical Romance
+Title: Sing
+Album: Danger Days: The True Lives Of The Fabulous Killjoys
+Track: 4/15
+Date: 2010-11-22
+Genre: Rock
+mtime: 1358438010
+song_end
+song_begin: 05-my_chemical_romance-planetary_(go).mp3
+Time: 247
+Artist: My Chemical Romance
+Title: Planetary (GO!)
+Album: Danger Days: The True Lives Of The Fabulous Killjoys
+Track: 5/15
+Date: 2010-11-22
+Genre: Rock
+mtime: 1358438035
+song_end
+song_begin: 06-my_chemical_romance-the_only_hope_for_me_is_you.mp3
+Time: 273
+Artist: My Chemical Romance
+Title: The Only Hope For Me Is You
+Album: Danger Days: The True Lives Of The Fabulous Killjoys
+Track: 6/15
+Date: 2010-11-22
+Genre: Rock
+mtime: 1358438030
+song_end
+song_begin: 07-my_chemical_romance-jet-star_and_the_kobra_kidtraffic_report.mp3
+Time: 26
+Artist: My Chemical Romance
+Title: Jet-Star And The Kobra Kid/Traffic Report
+Album: Danger Days: The True Lives Of The Fabulous Killjoys
+Track: 7/15
+Date: 2010-11-22
+Genre: Rock
+mtime: 1358438030
+song_end
+song_begin: 08-my_chemical_romance-party_poison.mp3
+Time: 216
+Artist: My Chemical Romance
+Title: Party Poison
+Album: Danger Days: The True Lives Of The Fabulous Killjoys
+Track: 8/15
+Date: 2010-11-22
+Genre: Rock
+mtime: 1358438019
+song_end
+song_begin: 09-my_chemical_romance-save_yourself_ill_hold_them_back.mp3
+Time: 230
+Artist: My Chemical Romance
+Title: Save Yourself, I'll Hold Them Back
+Album: Danger Days: The True Lives Of The Fabulous Killjoys
+Track: 9/15
+Date: 2010-11-22
+Genre: Rock
+mtime: 1358437998
+song_end
+song_begin: 10-my_chemical_romance-scarecrow.mp3
+Time: 268
+Artist: My Chemical Romance
+Title: S/C/A/R/E/C/R/O/W
+Album: Danger Days: The True Lives Of The Fabulous Killjoys
+Track: 10/15
+Date: 2010-11-22
+Genre: Rock
+mtime: 1358438005
+song_end
+song_begin: 11-my_chemical_romance-summertime.mp3
+Time: 247
+Artist: My Chemical Romance
+Title: Summertime
+Album: Danger Days: The True Lives Of The Fabulous Killjoys
+Track: 11/15
+Date: 2010-11-22
+Genre: Rock
+mtime: 1358437989
+song_end
+song_begin: 12-my_chemical_romance-destroya.mp3
+Time: 273
+Artist: My Chemical Romance
+Title: Destroya
+Album: Danger Days: The True Lives Of The Fabulous Killjoys
+Track: 12/15
+Date: 2010-11-22
+Genre: Rock
+mtime: 1358437993
+song_end
+song_begin: 13-my_chemical_romance-the_kids_from_yesterday.mp3
+Time: 325
+Artist: My Chemical Romance
+Title: The Kids From Yesterday
+Album: Danger Days: The True Lives Of The Fabulous Killjoys
+Track: 13/15
+Date: 2010-11-22
+Genre: Rock
+mtime: 1358437984
+song_end
+song_begin: 14-my_chemical_romance-goodnite_dr._death.mp3
+Time: 119
+Artist: My Chemical Romance
+Title: Goodnite, Dr. Death
+Album: Danger Days: The True Lives Of The Fabulous Killjoys
+Track: 14/15
+Date: 2010-11-22
+Genre: Rock
+mtime: 1358438000
+song_end
+song_begin: 15-my_chemical_romance-vampire_money.mp3
+Time: 218
+Artist: My Chemical Romance
+Title: Vampire Money
+Album: Danger Days: The True Lives Of The Fabulous Killjoys
+Track: 15/15
+Date: 2010-11-22
+Genre: Rock
+mtime: 1358438015
+song_end
+end: My Chemical Romance/my chemicalromance kill joys
+end: My Chemical Romance
+directory: Nirvana
+mtime: 1342682340
+begin: Nirvana
+directory: Nirvana
+mtime: 1342785060
+begin: Nirvana/Nirvana
+song_begin: 05 - Smells Like Teen Spirit.mp3
+Time: 301
+Artist: Nirvana
+AlbumArtist: Nirvana
+Title: Smells Like Teen Spirit
+Album: Nevermind
+Track: 5
+Date: 2002
+Genre: Unknown
+Composer: Dave Grohl/Krist Novoselic/Kurt Cobain
+mtime: 1358437943
+song_end
+end: Nirvana/Nirvana
+end: Nirvana
+directory: Paramore
+mtime: 1342682340
+begin: Paramore
+directory: All We Know Is Falling
+mtime: 1342784880
+begin: Paramore/All We Know Is Falling
+song_begin: 02 - Pressure.mp3
+Time: 186
+Artist: Paramore
+AlbumArtist: Paramore
+Title: Pressure
+Album: All We Know Is Falling
+Track: 02
+Date: 2005
+Genre: Pop Punk
+Composer: Hayley Williams, Josh Farro, Jason Bynum, John Hembree, Zac Farro
+Disc: 1/1
+mtime: 1358437935
+song_end
+song_begin: 07 - Whoa.mp3
+Time: 202
+Artist: Paramore
+AlbumArtist: Paramore
+Title: Whoa
+Album: All We Know Is Falling
+Track: 07
+Date: 2005
+Genre: Pop Punk
+Composer: Hayley Williams, Josh Farro, Jason Bynum, John Hembree, Zac Farro
+Disc: 1/1
+mtime: 1358437940
+song_end
+end: Paramore/All We Know Is Falling
+directory: Brand New Eyes
+mtime: 1342784880
+begin: Paramore/Brand New Eyes
+song_begin: 01 - Careful.mp3
+Time: 231
+Artist: Paramore
+AlbumArtist: Paramore
+Title: Careful
+Album: Brand New Eyes
+Track: 01
+Date: 2009
+Genre: Pop Punk
+Disc: 1/1
+mtime: 1358437918
+song_end
+song_begin: 02 - Ignorance.mp3
+Time: 218
+Artist: Paramore
+AlbumArtist: Paramore
+Title: Ignorance
+Album: Brand New Eyes
+Track: 02
+Date: 2009
+Genre: Pop Punk
+Performer: www.djrobsonmichel.com
+Performer: www.djrobsonmichel.com
+Disc: 1/1
+mtime: 1358437903
+song_end
+song_begin: 03 - Playing God.mp3
+Time: 183
+Artist: Paramore
+AlbumArtist: Paramore
+Title: Playing God
+Album: Brand New Eyes
+Track: 03
+Date: 2009
+Genre: Pop Punk
+Disc: 1/1
+mtime: 1358437933
+song_end
+song_begin: 04 - Brick By Boring Brick.mp3
+Time: 254
+Artist: Paramore
+AlbumArtist: Paramore
+Title: Brick By Boring Brick
+Album: Brand New Eyes
+Track: 04
+Date: 2009
+Genre: Pop Punk
+Composer: Hayley Williams/Josh Farro
+Disc: 1/1
+mtime: 1358437922
+song_end
+song_begin: 05 - Turn It Off.mp3
+Time: 260
+Artist: Paramore
+AlbumArtist: Paramore
+Title: Turn It Off
+Album: Brand New Eyes
+Track: 05
+Date: 2009
+Genre: Pop Punk
+Disc: 1/1
+mtime: 1358437908
+song_end
+song_begin: 06 - The Only Exception.mp3
+Time: 268
+Artist: Paramore
+AlbumArtist: Paramore
+Title: The Only Exception
+Album: Brand New Eyes
+Track: 06
+Date: 2009
+Genre: Pop Punk
+Disc: 1/1
+mtime: 1358437930
+song_end
+song_begin: 07 - Feeling Sorry.mp3
+Time: 185
+Artist: Paramore
+AlbumArtist: Paramore
+Title: Feeling Sorry
+Album: Brand New Eyes
+Track: 07
+Date: 2009
+Genre: Pop Punk
+Disc: 1/1
+mtime: 1358437913
+song_end
+song_begin: 08 - Looking Up.mp3
+Time: 210
+Artist: Paramore
+AlbumArtist: Paramore
+Title: Looking Up
+Album: Brand New Eyes
+Track: 08
+Date: 2009
+Genre: Pop Punk
+Disc: 1/1
+mtime: 1358437916
+song_end
+song_begin: 09 - Where The Lines Overlap.mp3
+Time: 199
+Artist: Paramore
+AlbumArtist: Paramore
+Title: Where The Lines Overlap
+Album: Brand New Eyes
+Track: 09
+Date: 2009
+Genre: Pop Punk
+Disc: 1/1
+mtime: 1358437911
+song_end
+song_begin: 10 - Misguided Ghosts.mp3
+Time: 182
+Artist: Paramore
+AlbumArtist: Paramore
+Title: Misguided Ghosts
+Album: Brand New Eyes
+Track: 10
+Date: 2009
+Genre: Pop Punk
+Disc: 1/1
+mtime: 1358437924
+song_end
+song_begin: 11 - All I Wanted.mp3
+Time: 228
+Artist: Paramore
+AlbumArtist: Paramore
+Title: All I Wanted
+Album: Brand New Eyes
+Track: 11
+Date: 2009
+Genre: Pop Punk
+Disc: 1/1
+mtime: 1358437927
+song_end
+song_begin: 12 - Decode (Twilight Soundtrack Version).mp3
+Time: 266
+Artist: Paramore
+AlbumArtist: Paramore
+Title: Decode (Twilight Soundtrack Version)
+Album: Brand New Eyes
+Track: 12
+Date: 2008
+Genre: Pop Punk
+Disc: 1/1
+mtime: 1358437905
+song_end
+end: Paramore/Brand New Eyes
+directory: Riot
+mtime: 1342784940
+begin: Paramore/Riot
+song_begin: 01 - Misery Business.mp3
+Time: 212
+Artist: Paramore
+AlbumArtist: Paramore
+Title: Misery Business
+Album: Riot
+Track: 01
+Date: 2007
+Genre: Pop Punk
+Composer: Hayley Williams/Josh Farro
+mtime: 1358437885
+song_end
+song_begin: 04 - For A Pessimist I'm Pretty Optimistic.mp3
+Time: 228
+Artist: Paramore
+AlbumArtist: Paramore
+Title: For A Pessimist I'm Pretty Optimistic
+Album: Riot
+Track: 04
+Date: 2007
+Genre: Pop Punk
+mtime: 1358437872
+song_end
+song_begin: 05 - That's What You Get.mp3
+Time: 221
+Artist: Paramore
+AlbumArtist: Paramore
+Title: That's What You Get
+Album: Riot
+Track: 05
+Date: 2007
+Genre: Pop Punk
+Composer: Hayley Williams/Josh Farro
+mtime: 1358437883
+song_end
+song_begin: 06 - Hallelujah.mp3
+Time: 204
+Artist: Paramore
+AlbumArtist: Paramore
+Title: Hallelujah
+Album: Riot
+Track: 06
+Date: 2007
+Genre: Pop Punk
+Composer: Hayley Williams/Josh Farro
+mtime: 1358437892
+song_end
+song_begin: 07 - When It Rains.mp3
+Time: 215
+Artist: Paramore
+AlbumArtist: Paramore
+Title: When It Rains
+Album: Riot
+Track: 07
+Date: 2007
+Genre: Pop Punk
+Composer: Hayley Williams/Josh Farro/Zac Farro
+mtime: 1358437897
+song_end
+song_begin: 08 - Let The Flames Begin.mp3
+Time: 198
+Artist: Paramore
+AlbumArtist: Paramore
+Title: Let The Flames Begin
+Album: Riot
+Track: 08
+Date: 2007
+Genre: Pop Punk
+Composer: Hayley Williams/Josh Farro
+mtime: 1358437899
+song_end
+song_begin: 09 - Miracle.mp3
+Time: 210
+Artist: Paramore
+AlbumArtist: Paramore
+Title: Miracle
+Album: Riot
+Track: 09
+Date: 2007
+Genre: Pop Punk
+Composer: Hayley Williams/Josh Farro
+mtime: 1358437877
+song_end
+song_begin: 10 - Crushcrushcrush.mp3
+Time: 189
+Artist: Paramore
+AlbumArtist: Paramore
+Title: Crushcrushcrush
+Album: Riot
+Track: 10
+Date: 2007
+Genre: Pop Punk
+Composer: Hayley Williams/Josh Farro
+mtime: 1358437875
+song_end
+song_begin: 11 - We Are Broken.mp3
+Time: 218
+Artist: Paramore
+AlbumArtist: Paramore
+Title: We Are Broken
+Album: Riot
+Track: 11
+Date: 2007
+Genre: Pop Punk
+Composer: David Bendeth/Hayley Williams/Josh Farro
+mtime: 1358437880
+song_end
+song_begin: 12 - Fences.mp3
+Time: 199
+Artist: Paramore
+AlbumArtist: Paramore
+Title: Fences
+Album: Riot
+Track: 12
+Date: 2007
+Genre: Pop Punk
+Composer: David Bendeth/Hayley Williams/Josh Farro
+mtime: 1358437888
+song_end
+song_begin: 13 - Born For This.mp3
+Time: 239
+Artist: Paramore
+AlbumArtist: Paramore
+Title: Born For This
+Album: Riot
+Track: 13
+Date: 2007
+Genre: Pop Punk
+Composer: Hayley Williams/Josh Farro
+mtime: 1358437870
+song_end
+song_begin: 15 - Emergency.mp3
+Time: 240
+Artist: Paramore
+AlbumArtist: Paramore
+Title: Emergency
+Album: Riot
+Track: 15
+Date: 2005
+Genre: Pop Punk
+Composer: Hayley Williams/Josh Farro
+mtime: 1358437894
+song_end
+end: Paramore/Riot
+end: Paramore
+directory: Red
+mtime: 1342683480
+begin: Red
+directory: End Of Silence
+mtime: 1342785060
+begin: Red/End Of Silence
+song_begin: 02 - Breathe Into Me.mp3
+Time: 214
+Artist: Red
+AlbumArtist: Red
+Title: Breathe Into Me
+Album: End Of Silence
+Track: 02/11
+Date: 2006-06-06
+Genre: Hard Rock
+Composer: Anthony Armstrong/Jasen Rauch/Jason McArthur/Rob Graves
+mtime: 1358437825
+song_end
+song_begin: 03 - Let Go.mp3
+Time: 315
+Artist: Red
+AlbumArtist: Red
+Title: Let Go
+Album: End Of Silence
+Track: 03
+Date: 2006
+Genre: Rock
+Composer: Jasen Rauch/Jason McArthur/Rob Graves
+mtime: 1358437845
+song_end
+song_begin: 04 - Already Over.mp3
+Time: 265
+Artist: Red
+AlbumArtist: Red
+Title: Already Over
+Album: End Of Silence
+Track: 04
+Date: 2006-06-06
+Genre: Hard Rock
+Composer: Jasen Rauch/Jason McArthur/Rob Graves
+mtime: 1358437835
+song_end
+song_begin: 05 - Lost.mp3
+Time: 315
+Artist: Red
+AlbumArtist: Red
+Title: Lost
+Album: End Of Silence
+Track: 05
+Date: 2006-06-06
+Genre: Hard Rock
+Composer: Chad Oates/Jasen Rauch/Rob Graves
+mtime: 1358437854
+song_end
+song_begin: 06 - Pieces.mp3
+Time: 358
+Artist: Red
+AlbumArtist: Red
+Title: Pieces
+Album: End Of Silence
+Track: 06
+Date: 2006-06-06
+Genre: Hard Rock
+Composer: Rob Graves
+mtime: 1358437840
+song_end
+song_begin: 07 - Break Me Down.mp3
+Time: 256
+Artist: Red
+AlbumArtist: Red
+Title: Break Me Down
+Album: End Of Silence
+Track: 07
+Date: 2006-06-06
+Genre: Hard Rock
+Composer: Anthony Armstrong/Jasen Rauch/Rob Graves
+mtime: 1358437866
+song_end
+song_begin: 08 - Ordinary World.mp3
+Time: 296
+Artist: Red
+AlbumArtist: Red
+Title: Ordinary World
+Album: End Of Silence
+Track: 08
+Date: 2006
+Genre: Hard Rock
+Composer: Anthony Armstrong/Jasen Rauch/Rob Graves
+mtime: 1358437830
+song_end
+song_begin: 09 - Gave It All Away.mp3
+Time: 194
+Artist: Red
+AlbumArtist: Red
+Title: Gave It All Away
+Album: End Of Silence
+Track: 09
+Date: 2006-06-06
+Genre: Hard Rock
+Composer: Jasen Rauch
+mtime: 1358437848
+song_end
+song_begin: 10 - Hide.mp3
+Time: 328
+Artist: Red
+AlbumArtist: Red
+Title: Hide
+Album: End Of Silence
+Track: 10/11
+Date: 2006-06-06
+Genre: Hard Rock
+Composer: Anthony Armstrong/Bernie Herms/Jasen Rauch/Rob Graves
+mtime: 1358437862
+song_end
+song_begin: 08 - Wasting Time.mp3
+Time: 201
+Artist: Red
+AlbumArtist: Red
+Title: Wasting Time
+Album: End of Silence
+Track: 08
+Date: 2006
+Genre: Christian Rock
+Composer: Anthony Armstrong/Jasen Rauch/Rob Graves
+mtime: 1358437856
+song_end
+end: Red/End Of Silence
+directory: Innocence & Instinct
+mtime: 1342784940
+begin: Red/Innocence & Instinct
+song_begin: 01 - Fight Inside.mp3
+Time: 248
+Artist: Red
+Title: Fight Inside
+Album: Innocence & Instinct
+Track: 01
+Date: 2009
+Genre: Hard Rock
+mtime: 1358437821
+song_end
+song_begin: 04 - Mystery of You.mp3
+Time: 227
+Artist: Red
+Title: Mystery of You
+Album: Innocence & Instinct
+Track: 04
+Date: 2009
+Genre: Alternative Metal, Christian Metal, Hard Rock, Nu Metal
+mtime: 1358437807
+song_end
+song_begin: 13 - Forever.mp3
+Time: 216
+Artist: Red
+Title: Forever
+Album: Innocence & Instinct
+Track: 13
+Date: 2009
+Genre: Christian Rock
+mtime: 1358437817
+song_end
+song_begin: 03 - Death Of Me.mp3
+Time: 257
+Artist: Red
+Title: Death Of Me
+Album: Innocence & Instinct
+Track: 03/03
+Date: 2009
+Genre: Christian Rock
+Disc: 1/1
+mtime: 1358437811
+song_end
+end: Red/Innocence & Instinct
+end: Red
+directory: Rise Against
+mtime: 1362210155
+begin: Rise Against
+directory: Appeal To Reason
+mtime: 1342784880
+begin: Rise Against/Appeal To Reason
+song_begin: 01 - Collapse (Post-Amerika).mp3
+Time: 199
+Artist: Rise Against
+AlbumArtist: Rise Against
+Title: Collapse (Post-Amerika)
+Album: Appeal To Reason
+Track: 01
+Date: 2008
+Genre: General Punk
+Composer: Brandon Barnes
+Disc: 1/1
+mtime: 1358437754
+song_end
+song_begin: 02 - Long Forgotten Sons.mp3
+Time: 242
+Artist: Rise Against
+AlbumArtist: Rise Against
+Title: Long Forgotten Sons
+Album: Appeal To Reason
+Track: 02
+Date: 2008
+Genre: General Punk
+Composer: Brandon Barnes
+Disc: 1/1
+mtime: 1358437751
+song_end
+song_begin: 03 - Re-Education (Through Labor).mp3
+Time: 223
+Artist: Rise Against
+AlbumArtist: Rise Against
+Title: Re-Education (Through Labor)
+Album: Appeal To Reason
+Track: 03
+Date: 2008
+Genre: General Punk
+Composer: Brandon Barnes
+Disc: 1/1
+mtime: 1358437765
+song_end
+song_begin: 04 - The Dirt Whispered.mp3
+Time: 189
+Artist: Rise Against
+AlbumArtist: Rise Against
+Title: The Dirt Whispered
+Album: Appeal To Reason
+Track: 04
+Date: 2008
+Genre: General Punk
+Composer: Brandon Barnes
+Disc: 1/1
+mtime: 1358437770
+song_end
+song_begin: 05 - Kotov Syndrome.mp3
+Time: 185
+Artist: Rise Against
+AlbumArtist: Rise Against
+Title: Kotov Syndrome
+Album: Appeal To Reason
+Track: 05
+Date: 2008
+Genre: General Punk
+Composer: Brandon Barnes
+Disc: 1/1
+mtime: 1358437746
+song_end
+song_begin: 06 - From Heads Unworthy.mp3
+Time: 222
+Artist: Rise Against
+AlbumArtist: Rise Against
+Title: From Heads Unworthy
+Album: Appeal To Reason
+Track: 06
+Date: 2008
+Genre: General Punk
+Composer: Brandon Barnes
+Disc: 1/1
+mtime: 1358437759
+song_end
+song_begin: 07 - The Strength To Go On.mp3
+Time: 207
+Artist: Rise Against
+AlbumArtist: Rise Against
+Title: The Strength To Go On
+Album: Appeal To Reason
+Track: 07
+Date: 2008
+Genre: General Punk
+Composer: Brandon Barnes
+Disc: 1/1
+mtime: 1358437773
+song_end
+song_begin: 08 - Audience Of One.mp3
+Time: 246
+Artist: Rise Against
+AlbumArtist: Rise Against
+Title: Audience Of One
+Album: Appeal To Reason
+Track: 08
+Date: 2008
+Genre: General Punk
+Composer: Brandon Barnes
+Disc: 1/1
+mtime: 1358437743
+song_end
+song_begin: 09 - Entertainment.mp3
+Time: 215
+Artist: Rise Against
+AlbumArtist: Rise Against
+Title: Entertainment
+Album: Appeal To Reason
+Track: 09
+Date: 2008
+Genre: General Punk
+Composer: Brandon Barnes
+Disc: 1/1
+mtime: 1358437779
+song_end
+song_begin: 10 - Hero Of War.mp3
+Time: 253
+Artist: Rise Against
+AlbumArtist: Rise Against
+Title: Hero Of War
+Album: Appeal To Reason
+Track: 10
+Date: 2008
+Genre: General Punk
+Composer: Brandon Barnes
+Disc: 1/1
+mtime: 1358437776
+song_end
+song_begin: 11 - Savior.mp3
+Time: 242
+Artist: Rise Against
+AlbumArtist: Rise Against
+Title: Savior
+Album: Appeal To Reason
+Track: 11
+Date: 2008
+Genre: General Punk
+Composer: Brandon Barnes
+Disc: 1/1
+mtime: 1358437762
+song_end
+song_begin: 12 - Hairline Fracture.mp3
+Time: 243
+Artist: Rise Against
+AlbumArtist: Rise Against
+Title: Hairline Fracture
+Album: Appeal To Reason
+Track: 12
+Date: 2008
+Genre: General Punk
+Composer: Brandon Barnes
+Disc: 1/1
+mtime: 1358437768
+song_end
+song_begin: 13 - Whereabouts Unknown.mp3
+Time: 242
+Artist: Rise Against
+AlbumArtist: Rise Against
+Title: Whereabouts Unknown
+Album: Appeal To Reason
+Track: 13
+Date: 2008
+Genre: General Punk
+Composer: Brandon Barnes
+Disc: 1/1
+mtime: 1358437749
+song_end
+song_begin: 14 - Historia Calamitatum.mp3
+Time: 203
+Artist: Rise Against
+AlbumArtist: Rise Against
+Title: Historia Calamitatum
+Album: Appeal To Reason
+Track: 14
+Date: 2008
+Genre: General Punk
+Composer: Brandon Barnes
+Disc: 1/1
+mtime: 1358437756
+song_end
+end: Rise Against/Appeal To Reason
+directory: Endgame
+mtime: 1342683480
+begin: Rise Against/Endgame
+song_begin: Architects.mp3
+Time: 224
+Artist: Rise Against
+AlbumArtist: Rise Against
+Title: Architects
+Album: Endgame
+Track: 01
+Date: 2011
+Genre: Alternative
+Composer: Rise Against/Tim McIlrath
+mtime: 1358437740
+song_end
+song_begin: Make It Stop (September's Children).mp3
+Time: 235
+Artist: Rise Against
+AlbumArtist: Rise Against
+Title: Make It Stop (September's Children)
+Album: Endgame
+Track: 03
+Date: 2011
+Genre: Alternative
+Composer: Rise Against/Tim McIlrath
+mtime: 1358437718
+song_end
+song_begin: Disparity By Design.mp3
+Time: 232
+Artist: Rise Against
+AlbumArtist: Rise Against
+Title: Disparity By Design
+Album: Endgame
+Track: 04
+Date: 2011
+Genre: Alternative
+Composer: Rise Against/Tim McIlrath
+mtime: 1358437727
+song_end
+song_begin: Satellite.mp3
+Time: 239
+Artist: Rise Against
+AlbumArtist: Rise Against
+Title: Satellite
+Album: Endgame
+Track: 05
+Date: 2011
+Genre: Alternative
+Composer: Rise Against/Tim McIlrath
+mtime: 1358437723
+song_end
+song_begin: Survivor Guilt.mp3
+Time: 237
+Artist: Rise Against
+AlbumArtist: Rise Against
+Title: Survivor Guilt
+Album: Endgame
+Track: 07
+Date: 2011
+Genre: Alternative
+Composer: Rise Against/Tim McIlrath
+mtime: 1358437732
+song_end
+song_begin: Endgame.mp3
+Time: 204
+Artist: Rise Against
+AlbumArtist: Rise Against
+Title: Endgame
+Album: Endgame
+Track: 12
+Date: 2011
+Genre: Alternative
+Composer: Rise Against/Tim McIlrath
+mtime: 1358437736
+song_end
+end: Rise Against/Endgame
+directory: Revolutions Per Minute
+mtime: 1342683480
+begin: Rise Against/Revolutions Per Minute
+song_begin: 05 - Like The Angel.mp3
+Time: 167
+Artist: Rise Against
+AlbumArtist: Rise Against
+Title: Like The Angel
+Album: Revolutions Per Minute
+Track: 05
+Date: 2003
+Genre: General Punk
+Composer: Journey
+Disc: 1/1
+mtime: 1358437663
+song_end
+end: Rise Against/Revolutions Per Minute
+directory: Siren Song Of The Counter Culture
+mtime: 1362210148
+begin: Rise Against/Siren Song Of The Counter Culture
+song_begin: 05 - Blood To Bleed.mp3
+Time: 229
+Artist: Rise Against
+AlbumArtist: Rise Against
+Title: Blood To Bleed
+Album: Siren Song of the Counter Culture
+Track: 5
+Date: 2004
+Genre: Punk Rock
+Composer: Rise Against
+mtime: 1358437785
+song_end
+song_begin: 12 - Rumors of My Demise Have Been Greatly Exaggerated.mp3
+Time: 254
+Artist: Rise Against
+AlbumArtist: Rise Against
+Title: Rumors of My Demise Have Been Greatly Exaggerated
+Album: Siren Song of the Counter Culture
+Track: 12
+Date: 2004
+Genre: Other
+Composer: Rise Against
+mtime: 1358437788
+song_end
+song_begin: 03 - Life Less Frightening.mp3
+Time: 224
+Artist: Rise Against
+AlbumArtist: Rise Against
+Title: Life Less Frightening
+Album: Siren Song of the Counter Culture
+Track: 3
+Date: 2004
+Genre: General Punk
+Composer: Dreamworks
+Disc: 1
+mtime: 1358437797
+song_end
+song_begin: 04 - Paper Wings.mp3
+Time: 224
+Artist: Rise Against
+AlbumArtist: Rise Against
+Title: Paper Wings
+Album: Siren Song of the Counter Culture
+Track: 4
+Date: 2004
+Genre: General Punk
+Composer: Dreamworks
+Disc: 1
+mtime: 1358437803
+song_end
+song_begin: 09 - Give It All.mp3
+Time: 170
+Artist: Rise Against
+AlbumArtist: Rise Against
+Title: Give It All
+Album: Siren Song of the Counter Culture
+Track: 9
+Date: 2004
+Genre: General Punk
+Composer: Dreamworks
+Disc: 1
+mtime: 1358437799
+song_end
+song_begin: 10 - Dancing For Rain.mp3
+Time: 242
+Artist: Rise Against
+AlbumArtist: Rise Against
+Title: Dancing For Rain
+Album: Siren Song of the Counter Culture
+Track: 10
+Date: 2004
+Genre: General Punk
+Composer: Dreamworks
+Disc: 1
+mtime: 1358437794
+song_end
+song_begin: 11 - Swing Life Away.mp3
+Time: 200
+Artist: Rise Against
+AlbumArtist: Rise Against
+Title: Swing Life Away
+Album: Siren Song of the Counter Culture
+Track: 11
+Date: 2004
+Genre: General Punk
+Composer: Dreamworks
+Disc: 1
+mtime: 1358437790
+song_end
+end: Rise Against/Siren Song Of The Counter Culture
+directory: The Sufferer and the Witness
+mtime: 1342785000
+begin: Rise Against/The Sufferer and the Witness
+song_begin: Roadside.mp3
+Time: 204
+Artist: Rise Against
+Title: Roadside
+Album: The Sufferer and the Witness
+mtime: 1358437710
+song_end
+song_begin: 01 - Chamber The Cartridge.mp3
+Time: 215
+Artist: Rise Against
+AlbumArtist: Rise Against
+Title: Chamber The Cartridge
+Album: The Sufferer and the Witness
+Track: 01
+Date: 2006
+Genre: Punk
+Composer: Rise Against/Tim McIlrath
+mtime: 1358437683
+song_end
+song_begin: 02 - Injection.mp3
+Time: 199
+Artist: Rise Against
+AlbumArtist: Rise Against
+Title: Injection
+Album: The Sufferer and the Witness
+Track: 02
+Date: 2006
+Genre: Alternative
+Composer: Rise Against/Tim McIlrath
+mtime: 1358437672
+song_end
+song_begin: 03 - Ready To Fall.mp3
+Time: 230
+Artist: Rise Against
+AlbumArtist: Rise Against
+Title: Ready To Fall
+Album: The Sufferer and the Witness
+Track: 03
+Date: 2006
+Genre: Rock
+Composer: Rise Against/Tim McIlrath
+mtime: 1358437693
+song_end
+song_begin: 04-Rise Against-Bricks.mp3
+Time: 91
+Artist: Rise Against
+Title: Bricks
+Album: The Sufferer and the Witness
+Track: 4
+Date: 2006
+Genre: Rock
+mtime: 1358437676
+song_end
+song_begin: 05-Rise Against-Under the Knife.mp3
+Time: 165
+Artist: Rise Against
+Title: Under the Knife
+Album: The Sufferer and the Witness
+Track: 5
+Date: 2006
+Genre: Rock
+mtime: 1358437713
+song_end
+song_begin: 06 - Prayer of the refugee.mp3
+Time: 199
+Artist: Rise Against
+AlbumArtist: Rise Against
+Title: Prayer of the refugee
+Album: The Sufferer and the Witness
+Track: 06
+Date: 2006
+Genre: Alternative
+Composer: Rise Against/Tim McIlrath
+mtime: 1358437694
+song_end
+song_begin: 08-Rise Against-The Approaching Curve.mp3
+Time: 224
+Artist: Rise Against
+Title: The Approaching Curve
+Album: The Sufferer and the Witness
+Track: 08
+Date: 2006
+Genre: Rock
+Composer: Rise Against; Tim McIlrath
+mtime: 1358437698
+song_end
+song_begin: 09-Rise Against-Worth Dying For.mp3
+Time: 200
+Artist: Rise Against
+Title: Worth Dying For
+Album: The Sufferer and the Witness
+Track: 9
+Date: 2006
+Genre: Rock
+mtime: 1358437705
+song_end
+song_begin: 12 - The good left undone.mp3
+Time: 185
+Artist: Rise Against
+AlbumArtist: Rise Against
+Title: The good left undone
+Album: The Sufferer and the Witness
+Track: 12
+Date: 2006
+Genre: Alternative
+Composer: Rise Against/Tim McIlrath
+mtime: 1358437703
+song_end
+song_begin: 13-Rise Against-Survive.mp3
+Time: 220
+Artist: Rise Against
+Title: Survive
+Album: The Sufferer and the Witness
+Track: 13
+Date: 2006
+Genre: Rock
+mtime: 1358437701
+song_end
+song_begin: 07 - Drones.mp3
+Time: 182
+Artist: Rise Against
+AlbumArtist: Rise Against
+Title: Drones
+Album: The Sufferer and the Witness
+Track: 07
+Date: 2006
+Genre: General Punk
+Composer: Richard Hell-Jerry Nolan-Dee Dee Ramone-Johnny Thunders
+Disc: 1/1
+mtime: 1358437686
+song_end
+song_begin: 10 - Behind Closed Doors.mp3
+Time: 195
+Artist: Rise Against
+AlbumArtist: Rise Against
+Title: Behind Closed Doors
+Album: The Sufferer and the Witness
+Track: 10
+Date: 2006
+Genre: General Punk
+Composer: Richard Hell-Jerry Nolan-Dee Dee Ramone-Johnny Thunders
+Disc: 1/1
+mtime: 1358437675
+song_end
+end: Rise Against/The Sufferer and the Witness
+song_begin: Anyway You Want It.mp3
+Time: 178
+Artist: Rise Against
+AlbumArtist: Rise Against
+Title: Anyway You Want It
+Album: Siren Song of the Counter Culture
+Genre: Unknown
+Composer: Ian Anderson
+mtime: 1358437782
+song_end
+song_begin: But Tonight We Dance.mp3
+Time: 176
+Artist: Rise Against
+AlbumArtist: Rise Against
+Title: But Tonight We Dance
+Album: Siren Song of the Counter Culture
+Genre: Unknown
+Composer: Ian Anderson
+mtime: 1358437667
+song_end
+end: Rise Against
+directory: Saosin
+mtime: 1342682340
+begin: Saosin
+directory: Saosin-Saosin-2006-MP3
+mtime: 1343018040
+begin: Saosin/Saosin-Saosin-2006-MP3
+song_begin: 01-saosin-its_far_better_to_learn.mp3
+Time: 235
+Artist: Saosin
+Title: It's Far Better To Learn
+Album: Saosin
+Track: 1
+Date: 2006
+Genre: Rock
+mtime: 1358437648
+song_end
+song_begin: 02-saosin-sleepers.mp3
+Time: 172
+Artist: Saosin
+Title: Sleepers
+Album: Saosin
+Track: 2
+Date: 2006
+Genre: Rock
+mtime: 1358437657
+song_end
+song_begin: 03-saosin-its_so_simple.mp3
+Time: 169
+Artist: Saosin
+Title: It's So Simple
+Album: Saosin
+Track: 3
+Date: 2006
+Genre: Rock
+mtime: 1358437619
+song_end
+song_begin: 04-saosin-voices.mp3
+Time: 218
+Artist: Saosin
+Title: Voices
+Album: Saosin
+Track: 4
+Date: 2006
+Genre: Rock
+mtime: 1358437632
+song_end
+song_begin: 05-saosin-finding_home.mp3
+Time: 189
+Artist: Saosin
+Title: Finding Home
+Album: Saosin
+Track: 5
+Date: 2006
+Genre: Rock
+mtime: 1358437623
+song_end
+song_begin: 06-saosin-follow_and_feel.mp3
+Time: 199
+Artist: Saosin
+Title: Follow And Feel
+Album: Saosin
+Track: 6
+Date: 2006
+Genre: Rock
+mtime: 1358437643
+song_end
+song_begin: 07-saosin-come_close.mp3
+Time: 196
+Artist: Saosin
+Title: Come Close
+Album: Saosin
+Track: 7
+Date: 2006
+Genre: Rock
+mtime: 1358437653
+song_end
+song_begin: 08-saosin-i_never_wanted_to.mp3
+Time: 209
+Artist: Saosin
+Title: I Never Wanted To
+Album: Saosin
+Track: 8
+Date: 2006
+Genre: Rock
+mtime: 1358437627
+song_end
+song_begin: 09-saosin-collapse.mp3
+Time: 195
+Artist: Saosin
+Title: Collapse
+Album: Saosin
+Track: 9
+Date: 2006
+Genre: Rock
+mtime: 1358437636
+song_end
+song_begin: 10-saosin-youre_not_alone.mp3
+Time: 238
+Artist: Saosin
+Title: You're Not Alone
+Album: Saosin
+Track: 10
+Date: 2006
+Genre: Rock
+mtime: 1358437661
+song_end
+song_begin: 11-saosin-bury_your_head.mp3
+Time: 215
+Artist: Saosin
+Title: Bury Your Head
+Album: Saosin
+Track: 11
+Date: 2006
+Genre: Rock
+mtime: 1358437640
+song_end
+song_begin: 12-saosin-some_sense_of_security.mp3
+Time: 240
+Artist: Saosin
+Title: Some Sense Of Security
+Album: Saosin
+Track: 12
+Date: 2006
+Genre: Rock
+mtime: 1358437616
+song_end
+end: Saosin/Saosin-Saosin-2006-MP3
+end: Saosin
+directory: Skillet
+mtime: 1342683600
+begin: Skillet
+directory: Alien Youth
+mtime: 1342683540
+begin: Skillet/Alien Youth
+song_begin: 04 - You Are My Hope.mp3
+Time: 255
+Artist: Skillet
+AlbumArtist: Skillet
+Title: You Are My Hope
+Album: Alien Youth
+Track: 04
+Date: 2001
+Genre: Other
+Composer: Cooper, John L./Korey Cooper
+mtime: 1358437560
+song_end
+song_begin: 06 - Kill Me, Heal Me.mp3
+Time: 216
+Artist: Skillet
+AlbumArtist: Skillet
+Title: Kill Me, Heal Me
+Album: Alien Youth
+Track: 06
+Date: 2001
+Genre: Other
+Composer: Cooper, John L.
+mtime: 1358437557
+song_end
+song_begin: 08 - One Real Thing.mp3
+Time: 215
+Artist: Skillet
+AlbumArtist: Skillet
+Title: One Real Thing
+Album: Alien Youth
+Track: 08
+Date: 2001
+Genre: Other
+Composer: Korey Cooper
+mtime: 1358437562
+song_end
+end: Skillet/Alien Youth
+directory: Awake
+mtime: 1342950480
+begin: Skillet/Awake
+song_begin: 01 - Hero.m4a
+Time: 187
+Title: Hero
+Artist: Skillet
+AlbumArtist: Skillet
+Album: Awake
+Genre: Christian Rock
+Date: 2009
+Track: 1
+Composer: John Cooper
+mtime: 1358437532
+song_end
+song_begin: 02 - Monster.m4a
+Time: 178
+Title: Monster
+Artist: Skillet
+AlbumArtist: Skillet
+Album: Awake
+Genre: Christian Rock
+Date: 2009
+Track: 2
+Composer: Gavin Brown
+mtime: 1358437555
+song_end
+song_begin: 03 - Don't Wake Me.m4a
+Time: 236
+Title: Don't Wake Me
+Artist: Skillet
+AlbumArtist: Skillet
+Album: Awake
+Genre: Christian Rock
+Date: 2009
+Track: 3
+Composer: Brian Howes
+mtime: 1358437548
+song_end
+song_begin: 04 - Awake And Alive.m4a
+Time: 212
+Title: Awake And Alive
+Artist: Skillet
+AlbumArtist: Skillet
+Album: Awake
+Genre: Christian Rock
+Date: 2009
+Track: 4
+Composer: Brian Howes
+mtime: 1358437529
+song_end
+song_begin: 05 - One Day Too Late.m4a
+Time: 220
+Title: One Day Too Late
+Artist: Skillet
+AlbumArtist: Skillet
+Album: Awake
+Genre: Christian Rock
+Date: 2009
+Track: 5
+Composer: Brian Howes
+mtime: 1358437539
+song_end
+song_begin: 06 - It's Not Me It's You.m4a
+Time: 205
+Title: It's Not Me It's You
+Artist: Skillet
+AlbumArtist: Skillet
+Album: Awake
+Genre: Christian Rock
+Date: 2009
+Track: 6
+Composer: John Cooper
+mtime: 1358437551
+song_end
+song_begin: 07 - Should've When You Could've.m4a
+Time: 211
+Title: Should've When You Could've
+Artist: Skillet
+AlbumArtist: Skillet
+Album: Awake
+Genre: Christian Rock
+Date: 2009
+Track: 7
+Composer: John Cooper
+mtime: 1358437534
+song_end
+song_begin: 08 - Believe.m4a
+Time: 231
+Title: Believe
+Artist: Skillet
+AlbumArtist: Skillet
+Album: Awake
+Genre: Christian Rock
+Date: 2009
+Track: 8
+Composer: Dave Bassett
+mtime: 1358437546
+song_end
+song_begin: 09 - Forgiven.m4a
+Time: 220
+Title: Forgiven
+Artist: Skillet
+AlbumArtist: Skillet
+Album: Awake
+Genre: Christian Rock
+Date: 2009
+Track: 9
+Composer: John Cooper
+mtime: 1358437541
+song_end
+song_begin: 10 - Sometimes.m4a
+Time: 209
+Title: Sometimes
+Artist: Skillet
+AlbumArtist: Skillet
+Album: Awake
+Genre: Christian Rock
+Date: 2009
+Track: 10
+Composer: John Cooper
+mtime: 1358437544
+song_end
+song_begin: 11 - Never Surrender.m4a
+Time: 211
+Title: Never Surrender
+Artist: Skillet
+AlbumArtist: Skillet
+Album: Awake
+Genre: Christian Rock
+Date: 2009
+Track: 11
+Composer: Dave Bassett
+mtime: 1358437536
+song_end
+song_begin: 12 - Lucy.m4a
+Time: 220
+Title: Lucy
+Artist: Skillet
+AlbumArtist: Skillet
+Album: Awake
+Genre: Christian Rock
+Date: 2009
+Track: 12
+Composer: John Cooper
+mtime: 1358437553
+song_end
+end: Skillet/Awake
+directory: Awake [Deluxe] [2009]
+mtime: 1342683540
+begin: Skillet/Awake [Deluxe] [2009]
+song_begin: 14 - Would It Matter.mp3
+Time: 178
+Artist: Skillet
+AlbumArtist: Skillet
+Title: Would It Matter
+Album: Awake
+Track: 14/15
+Date: 2009
+Genre: Rock
+Composer: Brian Howes/John Cooper/John L. Cooper
+Disc: 1/1
+mtime: 1358437566
+song_end
+end: Skillet/Awake [Deluxe] [2009]
+directory: Collide
+mtime: 1342683540
+begin: Skillet/Collide
+song_begin: 01 - Forsaken.mp3
+Time: 252
+Artist: Skillet
+AlbumArtist: Skillet
+Title: Forsaken
+Album: Collide
+Track: 01
+Date: 2003
+Genre: Christian Rock
+Composer: Cooper, John L.
+Disc: 1/1
+mtime: 1358437513
+song_end
+song_begin: 02 - Savior.mp3
+Time: 273
+Artist: Skillet
+AlbumArtist: Skillet
+Title: Savior
+Album: Collide
+Track: 02
+Date: 2003
+Genre: Christian Rock
+Composer: Cooper, John L.
+Disc: 1/1
+mtime: 1358437527
+song_end
+song_begin: 03 - Open Wounds.mp3
+Time: 195
+Artist: Skillet
+AlbumArtist: Skillet
+Title: Open Wounds
+Album: Collide
+Track: 03
+Date: 2003
+Genre: Christian Rock
+Composer: Cooper, John L./Kevin Kadish
+Disc: 1/1
+mtime: 1358437502
+song_end
+song_begin: 04 - A Little More.mp3
+Time: 289
+Artist: Skillet
+AlbumArtist: Skillet
+Title: A Little More
+Album: Collide
+Track: 04
+Date: 2003
+Genre: Christian Rock
+Composer: Cooper, John L./Korey Cooper
+Disc: 1/1
+mtime: 1358437500
+song_end
+song_begin: 05 - My Obsession.mp3
+Time: 300
+Artist: Skillet
+AlbumArtist: Skillet
+Title: My Obsession
+Album: Collide
+Track: 05
+Date: 2003
+Genre: Christian Rock
+Composer: Cooper, John L.
+Disc: 1/1
+mtime: 1358437524
+song_end
+song_begin: 06 - Collide.mp3
+Time: 338
+Artist: Skillet
+AlbumArtist: Skillet
+Title: Collide
+Album: Collide
+Track: 06
+Date: 2003
+Genre: Christian Rock
+Composer: Cooper, John L./Paul Ebersold
+Disc: 1/1
+mtime: 1358437505
+song_end
+song_begin: 07 - Fingernails.mp3
+Time: 306
+Artist: Skillet
+AlbumArtist: Skillet
+Title: Fingernails
+Album: Collide
+Track: 07
+Date: 2003
+Genre: Christian Rock
+Composer: Cooper, John L.
+Disc: 1/1
+mtime: 1358437518
+song_end
+song_begin: 08 - Imperfection.mp3
+Time: 246
+Artist: Skillet
+AlbumArtist: Skillet
+Title: Imperfection
+Album: Collide
+Track: 08
+Date: 2003
+Genre: Christian Rock
+Composer: Cooper, John L.
+Disc: 1/1
+mtime: 1358437521
+song_end
+song_begin: 09 - Under My Skin.mp3
+Time: 245
+Artist: Skillet
+AlbumArtist: Skillet
+Title: Under My Skin
+Album: Collide
+Track: 09
+Date: 2003
+Genre: Christian Rock
+Composer: Cooper, John L./Korey Cooper
+Disc: 1/1
+mtime: 1358437515
+song_end
+song_begin: 10 - Energy.mp3
+Time: 236
+Artist: Skillet
+AlbumArtist: Skillet
+Title: Energy
+Album: Collide
+Track: 10
+Date: 2003
+Genre: Christian Rock
+Composer: Cooper, John L.
+Disc: 1/1
+mtime: 1358437510
+song_end
+song_begin: 11 - Cycle Down.mp3
+Time: 238
+Artist: Skillet
+AlbumArtist: Skillet
+Title: Cycle Down
+Album: Collide
+Track: 11
+Date: 2003
+Genre: Christian Rock
+Composer: Cooper, John L.
+Disc: 1/1
+mtime: 1358437508
+song_end
+end: Skillet/Collide
+directory: Comatose
+mtime: 1342950480
+begin: Skillet/Comatose
+song_begin: 01 - Rebirthing.mp3
+Time: 233
+Artist: Skillet
+AlbumArtist: Skillet
+Title: Rebirthing
+Album: Comatose
+Track: 01
+Date: 2006
+Genre: Christian Rock
+Composer: Brian Howes/Cooper, John L.
+Disc: 1/1
+mtime: 1358437573
+song_end
+song_begin: 02 - The Last Night.mp3
+Time: 212
+Artist: Skillet
+AlbumArtist: Skillet
+Title: The Last Night
+Album: Comatose
+Track: 02
+Date: 2006
+Genre: Christian Rock
+Composer: Brian Howes/Cooper, John L.
+Disc: 1/1
+mtime: 1358437611
+song_end
+song_begin: 03 - Yours To Hold.mp3
+Time: 223
+Artist: Skillet
+AlbumArtist: Skillet
+Title: Yours To Hold
+Album: Comatose
+Track: 03
+Date: 2006
+Genre: Christian Rock
+Composer: Brian Howes/Cooper, John L.
+Disc: 1/1
+mtime: 1358437604
+song_end
+song_begin: 04 - Better Than Drugs.mp3
+Time: 238
+Artist: Skillet
+AlbumArtist: Skillet
+Title: Better Than Drugs
+Album: Comatose
+Track: 04
+Date: 2006
+Genre: Christian Rock
+Composer: Brian Howes/Cooper, John L.
+Disc: 1/1
+mtime: 1358437585
+song_end
+song_begin: 05 - Comatose.mp3
+Time: 231
+Artist: Skillet
+AlbumArtist: Skillet
+Title: Comatose
+Album: Comatose
+Track: 05
+Date: 2006
+Genre: Christian Rock
+Composer: Brian Howes/Cooper, John L.
+Disc: 1/1
+mtime: 1358437581
+song_end
+song_begin: 06 - The Older I Get.mp3
+Time: 218
+Artist: Skillet
+AlbumArtist: Skillet
+Title: The Older I Get
+Album: Comatose
+Track: 06
+Date: 2006
+Genre: Christian Rock
+Composer: Brian Howes/Cooper, John L.
+Disc: 1/1
+mtime: 1358437608
+song_end
+song_begin: 07 - Those Nights.mp3
+Time: 227
+Artist: Skillet
+AlbumArtist: Skillet
+Title: Those Nights
+Album: Comatose
+Track: 07
+Date: 2006
+Genre: Christian Rock
+Composer: Cooper, John L.
+Disc: 1/1
+mtime: 1358437597
+song_end
+song_begin: 08 - Falling Inside The Black.mp3
+Time: 210
+Artist: Skillet
+AlbumArtist: Skillet
+Title: Falling Inside The Black
+Album: Comatose
+Track: 08
+Date: 2006
+Genre: Christian Rock
+Composer: Cooper, John L.
+Disc: 1/1
+mtime: 1358437589
+song_end
+song_begin: 09 - Say Goodbye.mp3
+Time: 257
+Artist: Skillet
+AlbumArtist: Skillet
+Title: Say Goodbye
+Album: Comatose
+Track: 09
+Date: 2006
+Genre: Christian Rock
+Composer: Cooper, John L.
+Disc: 1/1
+mtime: 1358437578
+song_end
+song_begin: 10 - Whispers In The Dark.mp3
+Time: 204
+Artist: Skillet
+AlbumArtist: Skillet
+Title: Whispers In The Dark
+Album: Comatose
+Track: 10
+Date: 2006
+Genre: Christian Rock
+Composer: Brian Howes/Cooper, John L.
+Disc: 1/1
+mtime: 1358437601
+song_end
+song_begin: 11 - Looking For Angels.mp3
+Time: 271
+Artist: Skillet
+AlbumArtist: Skillet
+Title: Looking For Angels
+Album: Comatose
+Track: 11
+Date: 2006
+Genre: Christian Rock
+Composer: Cooper, John L.
+Disc: 1/1
+mtime: 1358437594
+song_end
+end: Skillet/Comatose
+directory: Comatose Comes Alive Disc 1
+mtime: 1342683600
+begin: Skillet/Comatose Comes Alive Disc 1
+song_begin: 12 - Live Free or Let Me Die.mp3
+Time: 233
+Artist: Skillet
+AlbumArtist: Skillet
+Title: Live Free or Let Me Die
+Album: Comatose Comes Alive Disc 1
+Track: 12
+Date: 2008
+Genre: Religious
+mtime: 1358437570
+song_end
+end: Skillet/Comatose Comes Alive Disc 1
+end: Skillet
+directory: Story of the Year
+mtime: 1342683600
+begin: Story of the Year
+directory: Page Avenue
+mtime: 1342784940
+begin: Story of the Year/Page Avenue
+song_begin: 02 - Until The Day I Die.mp3
+Time: 236
+Artist: Story of the year
+AlbumArtist: Story of the Year
+Title: Until The Day I Die
+Album: Page Avenue
+Track: 02
+Date: 2003
+Genre: Alternative
+Composer: Story of the Year
+mtime: 1358437489
+song_end
+song_begin: 03 - anthem of our dying day.mp3
+Time: 218
+Artist: Story of the year
+AlbumArtist: Story of the Year
+Title: anthem of our dying day
+Album: Page Avenue
+Track: 03
+Date: 2003
+Genre: Alternative
+Composer: Story of the Year
+mtime: 1358437493
+song_end
+song_begin: 09 - Sidewalks.mp3
+Time: 215
+Artist: Story Of The Year
+Title: Sidewalks
+Album: Page Avenue
+Track: 09
+Genre: Rock/Pop
+mtime: 1358437491
+song_end
+song_begin: 12 - Falling Down.mp3
+Time: 152
+Artist: Story Of The Year
+AlbumArtist: Story of the Year
+Title: Falling Down
+Album: Page Avenue
+Track: 12
+Date: 2003
+Genre: Rock
+Composer: Story of the Year
+mtime: 1358437486
+song_end
+end: Story of the Year/Page Avenue
+directory: Page Avenue ADVANCE
+mtime: 1342683600
+begin: Story of the Year/Page Avenue ADVANCE
+song_begin: 01 - And The Hero Will Drown.mp3
+Time: 193
+Artist: Story Of The Year
+AlbumArtist: Story of the Year
+Title: And The Hero Will Drown
+Album: Page Avenue
+Track: 01
+Date: 2003
+Genre: Rock
+Composer: Story of the Year
+mtime: 1358437496
+song_end
+end: Story of the Year/Page Avenue ADVANCE
+directory: The Black Swan
+mtime: 1342683600
+begin: Story of the Year/The Black Swan
+song_begin: 02 - Wake Up .mp3
+Time: 215
+Artist: Story Of The Year
+AlbumArtist: Story of the Year
+Title: Wake Up
+Album: The Black Swan
+Track: 02
+Date: 2008
+Genre: Rock
+Composer: Story of the Year
+mtime: 1358437483
+song_end
+end: Story of the Year/The Black Swan
+end: Story of the Year
+directory: Yellowcard
+mtime: 1342940400
+begin: Yellowcard
+directory: Burnout _ Revenge
+mtime: 1342786020
+begin: Yellowcard/Burnout _ Revenge
+song_begin: 02 - Lights And Sounds.mp3
+Time: 207
+Artist: Yellowcard
+AlbumArtist: Yellowcard
+Title: Lights And Sounds
+Album: Burnout : Revenge
+Track: 02
+Date: 2005
+Genre: Other
+Composer: Longineu Parsons III/Peter Mosely/Ryan Key/Sean Mackin
+mtime: 1358437390
+song_end
+end: Yellowcard/Burnout _ Revenge
+directory: Lights And Sounds
+mtime: 1342683600
+begin: Yellowcard/Lights And Sounds
+song_begin: 08 - Waiting Game.mp3
+Time: 255
+Artist: Yellowcard
+AlbumArtist: Yellowcard
+Title: Waiting Game
+Album: Lights And Sounds
+Track: 08
+Date: 2006
+Genre: Other
+Composer: Longineu Parsons III/Peter Mosely/Ryan Key/Sean Mackin
+mtime: 1358437376
+song_end
+song_begin: 14 - Holly Wood Died.mp3
+Time: 279
+Artist: Yellowcard
+AlbumArtist: Yellowcard
+Title: Holly Wood Died
+Album: Lights And Sounds
+Track: 14
+Date: 2006
+Genre: Other
+Composer: Longineu Parsons III/Peter Mosely/Ryan Key/Sean Mackin
+mtime: 1358437383
+song_end
+song_begin: 06 - Rough landing, holly.mp3
+Time: 216
+Artist: Yellowcard
+AlbumArtist: Yellowcard
+Title: Rough landing, holly
+Album: Lights and Sounds
+Track: 06
+Date: 2006
+Genre: Alternative
+Composer: Longineu Parsons III/Peter Mosely/Ryan Key/Sean Mackin
+mtime: 1358437378
+song_end
+end: Yellowcard/Lights And Sounds
+directory: Ocean Avenue
+mtime: 1342784940
+begin: Yellowcard/Ocean Avenue
+song_begin: 01 - Way away.mp3
+Time: 202
+Artist: Yellowcard
+AlbumArtist: Yellowcard
+Title: Way away
+Album: Ocean Avenue
+Track: 01
+Date: 2003
+Genre: Alternative
+Composer: Peter Mosely/Yellowcard
+mtime: 1358437456
+song_end
+song_begin: 02 - Breathing.mp3
+Time: 219
+Artist: Yellowcard
+AlbumArtist: Yellowcard
+Title: Breathing
+Album: Ocean Avenue
+Track: 02
+Date: 2003
+Genre: Alternative
+Composer: Peter Mosely/Yellowcard
+mtime: 1358437451
+song_end
+song_begin: 03 - Ocean Avenue.mp3
+Time: 198
+Artist: Yellowcard
+AlbumArtist: Yellowcard
+Title: Ocean Avenue
+Album: Ocean Avenue
+Track: 03
+Date: 2003
+Genre: Alternative
+Composer: Peter Mosely/Yellowcard
+mtime: 1358437448
+song_end
+song_begin: 04 - Empty apartment.mp3
+Time: 217
+Artist: Yellowcard
+AlbumArtist: Yellowcard
+Title: Empty apartment
+Album: Ocean Avenue
+Track: 04
+Date: 2003
+Genre: Alternative
+Composer: Peter Mosely/Yellowcard
+mtime: 1358437454
+song_end
+song_begin: 06 - Only one.mp3
+Time: 257
+Artist: Yellowcard
+AlbumArtist: Yellowcard
+Title: Only one
+Album: Ocean Avenue
+Track: 06
+Date: 2003
+Genre: Alternative
+Composer: Peter Mosely/Yellowcard
+mtime: 1358437461
+song_end
+song_begin: 11 - Believe.mp3
+Time: 271
+Artist: Yellowcard
+Title: Believe
+Album: Ocean Avenue
+Track: 11/
+Genre: Rock/Pop
+mtime: 1358437458
+song_end
+end: Yellowcard/Ocean Avenue
+directory: One for the Kids
+mtime: 1342683600
+begin: Yellowcard/One for the Kids
+song_begin: 01 - Struck.mp3
+Time: 166
+Artist: Yellowcard
+AlbumArtist: Yellowcard
+Title: Struck
+Album: One for the Kids
+Track: 1/
+Date: 2001
+Genre: Alternative
+Composer: Ryan Key/Yellowcard
+mtime: 1358437361
+song_end
+song_begin: 02 - Drifting.mp3
+Time: 209
+Artist: Yellowcard
+AlbumArtist: Yellowcard
+Title: Drifting
+Album: One for the Kids
+Track: 02
+Date: 2001
+Genre: Other
+Composer: Ryan Key/Yellowcard
+mtime: 1358437359
+song_end
+end: Yellowcard/One for the Kids
+directory: Other
+mtime: 1342683600
+begin: Yellowcard/Other
+song_begin: 05 - Gifts and Curses.mp3
+Time: 308
+Artist: Yellowcard
+AlbumArtist: Original Soundtrack
+Title: Gifts and Curses
+Album: Other
+Track: 05
+Date: 2004
+Genre: Soundtrack
+Composer: Yellowcard
+mtime: 1358437371
+song_end
+end: Yellowcard/Other
+directory: Paper Walls
+mtime: 1342683600
+begin: Yellowcard/Paper Walls
+song_begin: 01 - The Takedown.mp3
+Time: 217
+Artist: Yellowcard
+AlbumArtist: Yellowcard
+Title: The Takedown
+Album: Paper Walls
+Track: 1/
+Date: 2007
+Genre: Alternative
+mtime: 1358437472
+song_end
+song_begin: 02 - Fighting.mp3
+Time: 181
+Artist: Yellowcard
+AlbumArtist: Yellowcard
+Title: Fighting
+Album: Paper Walls
+Track: 02
+Date: 2007
+Genre: Alternative
+mtime: 1358437479
+song_end
+song_begin: 05 - Light Up The Sky.mp3
+Time: 217
+Artist: Yellowcard
+AlbumArtist: Yellowcard
+Title: Light Up The Sky
+Album: Paper Walls
+Track: 05
+Date: 2007
+Genre: Alternative
+mtime: 1358437477
+song_end
+song_begin: 13 - Paper Walls.mp3
+Time: 268
+Artist: Yellowcard
+AlbumArtist: Yellowcard
+Title: Paper Walls
+Album: Paper Walls
+Track: 13
+Date: 2007-07-20
+Genre: Punk Rock
+mtime: 1358437467
+song_end
+end: Yellowcard/Paper Walls
+directory: Punk Goes Pop
+mtime: 1356519600
+begin: Yellowcard/Punk Goes Pop
+song_begin: 03 - Everywhere.mp3
+Time: 215
+Artist: Yellowcard
+AlbumArtist: Various Artists
+Title: Everywhere
+Album: Punk Goes Pop
+Track: 3/
+Date: 2002
+Genre: Alternative
+mtime: 1358437365
+song_end
+end: Yellowcard/Punk Goes Pop
+song_begin: Bombers.mp3
+Time: 209
+Artist: Yellowcard
+Title: Bombers
+mtime: 1358437385
+song_end
+end: Yellowcard
+directory: Zebrahead
+mtime: 1342683600
+begin: Zebrahead
+directory: Broadcast To The World
+mtime: 1356519600
+begin: Zebrahead/Broadcast To The World
+song_begin: 03 - Anthem.mp3
+Time: 214
+Artist: Zebrahead
+AlbumArtist: Zebrahead
+Title: Anthem
+Album: Broadcast To The World
+Track: 03/00
+Date: 2006
+Genre: Rap Metal
+Composer: Zebrahead
+Disc: 1/1
+mtime: 1358437354
+song_end
+song_begin: 09 - Wake Me Up.mp3
+Time: 229
+Artist: Zebrahead
+AlbumArtist: Zebrahead
+Title: Wake Me Up
+Album: Broadcast To The World
+Track: 9/
+Date: 2006
+Genre: Rap Metal
+Composer: Zebrahead
+Disc: 1/1
+mtime: 1358437356
+song_end
+song_begin: 11 - The Walking Dead.mp3
+Time: 190
+Artist: Zebrahead
+AlbumArtist: Zebrahead
+Title: The Walking Dead
+Album: Broadcast to the World
+Track: 11/
+Date: 2006
+Genre: Alternative
+Composer: Ali Tabatabaee/Ben Osmundson/Ed Udhus/Greg Bergdorf/Matty Lewis/Zebrahead
+mtime: 1358437351
+song_end
+end: Zebrahead/Broadcast To The World
+directory: MFZB
+mtime: 1342683600
+begin: Zebrahead/MFZB
+song_begin: 02 - Over the Edge.mp3
+Time: 168
+Artist: Zebrahead
+AlbumArtist: Zebrahead
+Title: Over the Edge
+Album: MFZB
+Track: 2/
+Date: 2003
+Genre: Alternative
+mtime: 1358437315
+song_end
+song_begin: 08 - into you.mp3
+Time: 192
+Artist: zebrahead
+AlbumArtist: Zebrahead
+Title: into you
+Album: MFZB
+Track: 8/
+Date: 2003
+Genre: Rock/Pop
+mtime: 1358437313
+song_end
+song_begin: 01 - Rescue Me.mp3
+Time: 201
+Artist: Zebrahead
+AlbumArtist: Zebrahead
+Title: Rescue Me
+Album: MFZB
+Track: 01
+Date: 2003
+Genre: Rap Metal
+Composer: Zebrahead
+Disc: 1/1
+mtime: 1358437318
+song_end
+song_begin: 03 - Strength.mp3
+Time: 208
+Artist: Zebrahead
+AlbumArtist: Zebrahead
+Title: Strength
+Album: MFZB
+Track: 03
+Date: 2003
+Genre: Rap Metal
+Composer: Zebrahead
+Disc: 1/1
+mtime: 1358437311
+song_end
+song_begin: 04 - Hello Tomorrow.mp3
+Time: 247
+Artist: Zebrahead
+AlbumArtist: Zebrahead
+Title: Hello Tomorrow
+Album: MFZB
+Track: 04
+Date: 2003
+Genre: Rap Metal
+Composer: Zebrahead
+Disc: 1/1
+mtime: 1358437323
+song_end
+song_begin: 11 - Falling Apart.mp3
+Time: 192
+Artist: Zebrahead
+AlbumArtist: Zebrahead
+Title: Falling Apart
+Album: MFZB
+Track: 11
+Date: 2003
+Genre: Rap Metal
+Composer: Zebrahead
+Disc: 1/1
+mtime: 1358437320
+song_end
+end: Zebrahead/MFZB
+directory: MP3 by yakdog26@aol.com
+mtime: 1342784940
+begin: Zebrahead/MP3 by yakdog26@aol.com
+song_begin: 01 - Wannabe.mp3
+Time: 152
+Artist: Zebrahead
+Title: Wannabe
+Album: MP3 by yakdog26@aol.com
+Track: 1/
+mtime: 1358437307
+song_end
+end: Zebrahead/MP3 by yakdog26@aol.com
+directory: Phoenix
+mtime: 1342784940
+begin: Zebrahead/Phoenix
+song_begin: Hell Yeah!.mp3
+Time: 217
+Artist: Zebrahead
+AlbumArtist: Zebrahead
+Title: Hell Yeah!
+Album: Phoenix
+Genre: Punk
+mtime: 1358437348
+song_end
+song_begin: Mental Health.mp3
+Time: 194
+Artist: Zebrahead
+Title: Mental Health
+Album: Phoenix
+Genre: Alternative & Punk
+mtime: 1358437342
+song_end
+song_begin: 05 - The Juggernauts.mp3
+Time: 240
+Artist: Zebrahead
+AlbumArtist: Zebrahead
+Title: The Juggernauts
+Album: Phoenix
+Track: 05
+Date: 2008-08-05
+Genre: Punk
+mtime: 1358437346
+song_end
+end: Zebrahead/Phoenix
+directory: Phoenix Disc 1
+mtime: 1356519600
+begin: Zebrahead/Phoenix Disc 1
+song_begin: 03 - Just the Tip.mp3
+Time: 197
+Artist: Zebrahead
+AlbumArtist: Zebrahead
+Title: Just the Tip
+Album: Phoenix Disc 1
+Track: 3/
+Date: 2008
+Genre: Other
+Composer: Zebrahead
+mtime: 1358437326
+song_end
+end: Zebrahead/Phoenix Disc 1
+directory: Playmate of the Year
+mtime: 1356519600
+begin: Zebrahead/Playmate of the Year
+song_begin: 03 - Now or Never.mp3
+Time: 180
+Artist: Zebrahead
+AlbumArtist: Zebrahead
+Title: Now or Never
+Album: Playmate of the Year
+Track: 3/
+Date: 2000
+Genre: Metal
+Composer: Ali Tabatabaee/Ben Osmundson/Ed Udhus/Greg Bergdorf/Justin Mauriello
+mtime: 1358437338
+song_end
+end: Zebrahead/Playmate of the Year
+directory: Sonic The Hedgehog (2006)
+mtime: 1342784940
+begin: Zebrahead/Sonic The Hedgehog (2006)
+song_begin: His World.mp3
+Time: 279
+Artist: Zebrahead
+Title: His World
+Album: Sonic The Hedgehog (2006)
+Date: 2006
+mtime: 1358437336
+song_end
+end: Zebrahead/Sonic The Hedgehog (2006)
+end: Zebrahead
+song_begin: Halo Theme.mp3
+Time: 183
+Artist: Martin O'Donnell
+Title: Halo Theme
+Album: Halo: Combat Evolved
+Genre: Unknown
+mtime: 1358437296
+song_end
+playlist_begin: awesomeness.m3u
+mtime: 1358435708
+playlist_end
